@@ -4,31 +4,155 @@
         "userTier": "developer",
         "total": 1,
         "content": {
-            "id": "business/2014/feb/18/uk-inflation-falls-below-bank-england-target",
+            "id": "politics/2021/apr/03/unions-warn-ministers-against-rush-to-ditch-masks-in-english-schools",
             "type": "article",
-            "sectionId": "business",
-            "sectionName": "Business",
-            "webPublicationDate": "2014-02-18T11:02:45Z",
-            "webTitle": "UK inflation falls below Bank of England's 2% target",
-            "webUrl": "https://www.theguardian.com/business/2014/feb/18/uk-inflation-falls-below-bank-england-target",
-            "apiUrl": "https://content.guardianapis.com/business/2014/feb/18/uk-inflation-falls-below-bank-england-target",
+            "sectionId": "politics",
+            "sectionName": "Politics",
+            "webPublicationDate": "2021-04-03T15:21:16Z",
+            "webTitle": "Unions warn ministers against rush to ditch masks in English schools",
+            "webUrl": "https://www.theguardian.com/politics/2021/apr/03/unions-warn-ministers-against-rush-to-ditch-masks-in-english-schools",
+            "apiUrl": "https://content.guardianapis.com/politics/2021/apr/03/unions-warn-ministers-against-rush-to-ditch-masks-in-english-schools",
             "blocks": {
+                "main": {
+                    "id": "606886ec8f087a7cbd51ee68",
+                    "bodyHtml": "<figure class=\"element element-image\" data-media-id=\"bc9662dc2a8ff87bb97e9ce748288c3c27747dcb\"> <img src=\"https://media.guim.co.uk/bc9662dc2a8ff87bb97e9ce748288c3c27747dcb/0_0_2784_1670/1000.jpg\" alt=\"A teacher and pupils wearing face masks in the classroom\" width=\"1000\" height=\"600\" class=\"gu-image\" /> <figcaption> <span class=\"element-image__caption\">A rapid review of guidance on masks in schools may recommend that they are not worn when the summer term starts after Easter.</span> <span class=\"element-image__credit\">Photograph: Kirsty O’Connor/PA</span> </figcaption> </figure>",
+                    "bodyTextSummary": "",
+                    "attributes": {},
+                    "published": true,
+                    "createdDate": "2021-04-03T15:17:00Z",
+                    "firstPublishedDate": "2021-04-03T15:17:01Z",
+                    "publishedDate": "2021-04-03T15:17:49Z",
+                    "lastModifiedDate": "2021-04-03T15:17:49Z",
+                    "contributors": [],
+                    "elements": [
+                        {
+                            "type": "image",
+                            "assets": [
+                                {
+                                    "type": "image",
+                                    "mimeType": "image/jpeg",
+                                    "file": "https://media.guim.co.uk/bc9662dc2a8ff87bb97e9ce748288c3c27747dcb/0_0_2784_1670/140.jpg",
+                                    "typeData": {
+                                        "aspectRatio": "5:3",
+                                        "width": 140,
+                                        "height": 84
+                                    }
+                                },
+                                {
+                                    "type": "image",
+                                    "mimeType": "image/jpeg",
+                                    "file": "https://media.guim.co.uk/bc9662dc2a8ff87bb97e9ce748288c3c27747dcb/0_0_2784_1670/500.jpg",
+                                    "typeData": {
+                                        "aspectRatio": "5:3",
+                                        "width": 500,
+                                        "height": 300
+                                    }
+                                },
+                                {
+                                    "type": "image",
+                                    "mimeType": "image/jpeg",
+                                    "file": "https://media.guim.co.uk/bc9662dc2a8ff87bb97e9ce748288c3c27747dcb/0_0_2784_1670/1000.jpg",
+                                    "typeData": {
+                                        "aspectRatio": "5:3",
+                                        "width": 1000,
+                                        "height": 600
+                                    }
+                                },
+                                {
+                                    "type": "image",
+                                    "mimeType": "image/jpeg",
+                                    "file": "https://media.guim.co.uk/bc9662dc2a8ff87bb97e9ce748288c3c27747dcb/0_0_2784_1670/200.jpg",
+                                    "typeData": {
+                                        "aspectRatio": "5:3",
+                                        "width": 2000,
+                                        "height": 1200
+                                    }
+                                },
+                                {
+                                    "type": "image",
+                                    "mimeType": "image/jpeg",
+                                    "file": "https://media.guim.co.uk/bc9662dc2a8ff87bb97e9ce748288c3c27747dcb/0_0_2784_1670/2784.jpg",
+                                    "typeData": {
+                                        "aspectRatio": "5:3",
+                                        "width": 2784,
+                                        "height": 1670
+                                    }
+                                },
+                                {
+                                    "type": "image",
+                                    "mimeType": "image/jpeg",
+                                    "file": "https://media.guim.co.uk/bc9662dc2a8ff87bb97e9ce748288c3c27747dcb/0_0_2784_1670/master/2784.jpg",
+                                    "typeData": {
+                                        "aspectRatio": "5:3",
+                                        "width": 2784,
+                                        "height": 1670,
+                                        "isMaster": true
+                                    }
+                                }
+                            ],
+                            "imageTypeData": {
+                                "caption": "A rapid review of guidance on masks in schools may recommend that they are not worn when the summer term starts after Easter.",
+                                "displayCredit": true,
+                                "credit": "Photograph: Kirsty O’Connor/PA",
+                                "source": "PA",
+                                "photographer": "Kirsty O’Connor",
+                                "alt": "A teacher and pupils wearing face masks in the classroom",
+                                "mediaId": "bc9662dc2a8ff87bb97e9ce748288c3c27747dcb",
+                                "mediaApiUri": "https://api.media.gutools.co.uk/images/bc9662dc2a8ff87bb97e9ce748288c3c27747dcb",
+                                "suppliersReference": "HEALTH_Coronavirus_10123424.JPG",
+                                "imageType": "Photograph"
+                            }
+                        }
+                    ]
+                },
                 "body": [
                     {
-                        "id": "a45f3c38-a6af-480c-bfd7-96a019cbb3f4",
-                        "bodyHtml": "<p>Inflation fell below the Bank of England's 2% target for the first time in more than four years in January, brightening the outlook for Britain's squeezed consumers.</p> <p>The annual rate of inflation dipped to 1.9% last month from 2% in December, according to the Office for National Statistics, driven lower by prices of furniture and other household goods, alcohol and tobacco, DVDs and tourist attraction entry costs.</p> <p>It was the first time since November 2009 that inflation has fallen below target. Economists said the figures reflected particularly aggressive discounting this year as retailers competed in the January sales.</p> <p>Inflation has been falling steadily in recent months after reaching a peak of 5.2% in September 2011. It finally <a href=\"http://www.theguardian.com/business/2014/jan/14/inflation-falls-to-2-percent-bank-of-england-target\" title=\"\">returned to the 2% target for the first time in four years in December</a>.</p> <p>Economists said inflation was likely to fall further in the coming months, boosting the chance that wage growth will outpace inflation in 2014 for the first time in years, easing the pressure on household budgets.</p> <p>Wage growth was just 0.9% in the latest available data for the three months to November, still less than half the inflation rate.</p> <p>\"There is a good chance that CPI inflation will fall to as low as 1% by the end of this year and remain subdued thereafter,\" said Samuel Tombs, UK economist at Capital Economics.</p> <p>\"This should enable real earnings to rise for the first year since 2007 and allow the [Bank's] monetary policy committee to keep interest rates on hold until well into next year.\"</p> <p>Despite a backdrop of falling inflation and economic growth, the Bank of England made it clear last week it is in no hurry to raise interest rates – which have been at an all-time low of 0.5% since March 2009 – suggesting there would be no rise until after the general election next year.</p> <p>The Bank's governor, <a href=\"http://www.theguardian.com/business/2014/feb/12/interest-rates-economic-recovery-unsustainable\" title=\"\">Mark Carney, said its policymakers would not take risks with this recovery</a>, which is as yet \"neither balanced nor sustainable\".</p> <p>The retail prices index, historically used to calculate wage rises, rose to 2.8% in January from 2.7% in December, driven higher by insurance, air fares and fuel prices.</p>",
-                        "bodyTextSummary": "Inflation fell below the Bank of England's 2% target for the first time in more than four years in January, brightening the outlook for Britain's squeezed consumers. The annual rate of inflation dipped to 1.9% last month from 2% in December, according to the Office for National Statistics, driven lower by prices of furniture and other household goods, alcohol and tobacco, DVDs and tourist attraction entry costs. It was the first time since November 2009 that inflation has fallen below target. Economists said the figures reflected particularly aggressive discounting this year as retailers competed in the January sales. Inflation has been falling steadily in recent months after reaching a peak of 5.2% in eptember 2011. It finally returned to the 2% target for the first time in four years in December. Economists said inflation was likely to fall further in the coming months, boosting the chance that wage growth will outpace inflation in 2014 for the first time in years, easing the pressure on household budgets. Wage growth was just 0.9% in the latest available data for the three months to November, still less than half the inflation rate. \"There is a good chance that CPI inflation will fall to as low as 1% by the end of this year and remain subdued thereafter,\" said Samuel Tombs, UK economist at Capital Economics. \"This should enable real earnings to rise for the first year since 2007 and allow the [Bank's] monetary policy committee to keep interest rates on hold until well into next year.\" Despite a backdrop of falling inflation and economic growth, the Bank of England made it clear last week it is in no hurry to raise interest rates – which have been at an all-time low of 0.5% since March 2009 – suggesting there would be no rise until after the general election next year. The Bank's governor, Mark Carney, said its policymakers would not take risks with this recovery, which is as yet \"neither balanced nor sustainable\". The retail prices index, historically used to calculate wage rises, rose to 2.8% in January from 2.7% in December, driven higher by insurance, air fares and fuel prices.",
+                        "id": "606832778f083302090e3703",
+                        "bodyHtml": "<p>Ministers should not “rush into” a decision to ditch face masks in schools in England because the existing policy is helping prevent the spread of Covid, the leaders of five major unions say.</p> <p>The Department for Education (DfE) and Public Health England (PHE) have been conducting a rapid review of guidance that recommends that children and teachers should wear face coverings to prevent the spread of Covid-19, with the possibility that masks should not be worn when the summer term starts after Easter.</p> <p>That would be a mistake, according to a joint letter to Gavin Williamson, the education secretary, from the leaders of GMB, Unison, NASUWT, the National Association of Head Teachers and the National Education Union.</p> <p>The unions, which represent teachers, heads and other school staff, say masks may be helping suppress Covid transmission in schools and are not causing disruption to learning.</p>  <figure class=\"element element-atom\"> <gu-atom data-atom-id=\"interactives/2020/08/uk-coronavirus-dashboard-v2/line-chart-age\"         data-atom-type=\"interactive\"    > </gu-atom> </figure>   <p>“None of us wants to see pupils or staff wearing face coverings for longer than is necessary,” the letter states.</p> <p>“However, it is our shared view that the government should not rush into changing this policy at short notice without careful consideration of the scientific evidence surrounding the wearing of face coverings in schools.”</p> <p>The unions say there is “a strong scientific consensus” that masks “can and should” be part of anti-Covid measures.</p> <p>“The research suggests that they cut down the chances of both transmitting and catching the coronavirus,” the leaders say. “We have also seen the emergence of more recent studies that suggest that they can help to reduce transmission of the virus within schools.”</p> <p><a href=\"https://www.medrxiv.org/content/10.1101/2021.02.27.21252597v1.full.pdf\">A study of more than 500,000 parents in the US</a> by researchers at Johns Hopkins University showed that people living with children educated in schools had a raised risk of catching Covid, but that measures to prevent transmission, including face masks, helped reduce the risk. </p> <p>The latest government data shows that the number of Covid cases has been falling less steeply in the last few weeks and the R number of how cases are spreading is broadly flat or shrinking by up to 4% a day.</p>  <figure class=\"element element-atom\"> <gu-atom data-atom-id=\"interactives/2020/03/covid-19-uk/default\"         data-atom-type=\"interactive\"    > </gu-atom> </figure>   <p>But while cases for most of the population are falling, there has been a rise among those aged 10-19 for the last four weeks, according to <a href=\"https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports\">the latest PHE Covid surveillance report</a>.</p> <p>“While the DfE’s own data has shown a recent increase in the number of pupils absent for Covid-19 related reasons, it is not unreasonable to assume that the wearing of face coverings could actually be restraining this increase,” the union leaders say.</p> <p>“The feedback we have received so far from members is that, for the most part, the face coverings policy is being well adhered to and not causing any significant disruption in schools.</p> <p>“We have also received feedback to suggest that a significant number of pupils, parents and staff have reported feeling safer as a result of wearing face coverings in schools.”</p> <p>Groups such as Parents United UK have stressed concerns that children who become infected with Covid may pass on the disease to their parents, who are more vulnerable to becoming seriously ill.</p> <p>But masks have been <a href=\"https://www.theguardian.com/education/2021/jan/26/group-campaigning-for-uk-schools-to-reopen-wins-backing-of-17-tory-mps\">opposed by some groups including UsforThem</a>, which has said it will take legal action against Williamson if he does not withdraw the guidance on masks.</p> <p>The group is politically influential – it is advised by a Conservative lobbyist and has the backing of Tory MPs such as Steve Baker, who formed the Covid Recovery Group last November to argue that lockdown restrictions were unnecessary, when the death toll was less than 50,000.</p>",
+                        "bodyTextSummary": "Ministers should not “rush into” a decision to ditch face masks in schools in England because the existing policy is helping prevent the spread of Covid, the leaders of five major unions say. The Department for Education (DfE) and Public Health England (PHE) have been conducting a rapid review of guidance that recommends that children and teachers should wear face coverings to prevent the spread of Covid-19, with the possibility that masks should not be worn when the summer term starts after Easter. That would be a mistake, according to a joint letter to Gavin Williamson, the education secretary, from the leaders of GMB, Unison, NASUWT, the National Association of Head Teachers and the National Education Union. The unions, which represent teachers, heads and other school staff, say masks may be helping suppress Covid transmission in schools and are not causing disruption to learning.\n“None of us wants to see pupils or staff wearing face coverings for longer than is necessary,” the letter states. “However, it is our shared view that the government should not rush into changing this policy at short notice without careful consideration of the scientific evidence surrounding the wearing of face coverings in schools.” The unions say there is “a strong scientific consensus” that masks “can and should” be part of anti-Covid measures. “The research suggests that they cut down the chances of both transmitting and catching the coronavirus,” the leaders say. “We have also seen the emergence of more recent studies that suggest that they can help to reduce transmission of the virus within schools.” A study of more than 500,000 parents in the US by researchers at Johns Hopkins University showed that people living with children educated in schools had a raised risk of catching Covid, but that measures to prevent transmission, including face masks, helped reduce the risk. The latest government data shows that the number of Covid cases has been falling less steeply in the last few weeks and the R number of how cases are spreading is broadly flat or shrinking by up to 4% a day.\nBut while cases for most of the population are falling, there has been a rise among those aged 10-19 for the last four weeks, according to the latest PHE Covid surveillance report. “While the DfE’s own data has shown a recent increase in the number of pupils absent for Covid-19 related reasons, it is not unreasonable to assume that the wearing of face coverings could actually be restraining this increase,” the union leaders say. “The feedback we have received so far from members is that, for the most part, the face coverings policy is being well adhered to and not causing any significant disruption in schools. “We have also received feedback to suggest that a significant number of pupils, parents and staff have reported feeling safer as a result of wearing face coverings in schools.” Groups such as Parents United UK have stressed concerns that children who become infected with Covid may pass on the disease to their parents, who are more vulnerable to becoming seriously ill. But masks have been opposed by some groups including UsforThem, which has said it will take legal action against Williamson if he does not withdraw the guidance on masks. The group is politically influential – it is advised by a Conservative lobbyist and has the backing of Tory MPs such as Steve Baker, who formed the Covid Recovery Group last November to argue that lockdown restrictions were unnecessary, when the death toll was less than 50,000.",
                         "attributes": {},
                         "published": true,
-                        "createdDate": "2016-01-12T14:36:52Z",
-                        "lastModifiedDate": "2016-01-12T14:36:52Z",
+                        "createdDate": "2021-04-03T09:16:39Z",
+                        "firstPublishedDate": "2021-04-03T09:16:42Z",
+                        "publishedDate": "2021-04-03T15:27:39Z",
+                        "lastModifiedDate": "2021-04-03T15:27:39Z",
                         "contributors": [],
                         "elements": [
                             {
                                 "type": "text",
                                 "assets": [],
                                 "textTypeData": {
-                                    "html": "<p>Inflation fell below the Bank of England's 2% target for the first time in more than four years in January, brightening the outlook for Britain's squeezed consumers.</p> \n<p>The annual rate of inflation dipped to 1.9% last month from 2% in December, according to the Office for National Statistics, driven lower by prices of furniture and other household goods, alcohol and tobacco, DVDs and tourist attraction entry costs.</p> \n<p>It was the first time since November 2009 that inflation has fallen below target. Economists said the figures reflected particularly aggressive discounting this year as retailers competed in the January sales.</p> \n<p>Inflation has been falling steadily in recent months after reaching a peak of 5.2% in September 2011. It finally <a href=\"http://www.theguardian.com/business/2014/jan/14/inflation-falls-to-2-percent-bank-of-england-target\" title=\"\">returned to the 2% target for the first time in four years in December</a>.</p> \n<p>Economists said inflation was likely to fall further in the coming months, boosting the chance that wage growth will outpace inflation in 2014 for the first time in years, easing the pressure on household budgets.</p> \n<p>Wage growth was just 0.9% in the latest available data for the three months to November, still less than half the inflation rate.</p> \n<p>\"There is a good chance that CPI inflation will fall to as low as 1% by the end of this year and remain subdued thereafter,\" said Samuel Tombs, UK economist at Capital Economics.</p> \n<p>\"This should enable real earnings to rise for the first year since 2007 and allow the [Bank's] monetary policy committee to keep interest rates on hold until well into next year.\"</p> \n<p>Despite a backdrop of falling inflation and economic growth, the Bank of England made it clear last week it is in no hurry to raise interest rates – which have been at an all-time low of 0.5% since March 2009 – suggesting there would be no rise until after the general election next year.</p> \n<p>The Bank's governor, <a href=\"http://www.theguardian.com/business/2014/feb/12/interest-rates-economic-recovery-unsustainable\" title=\"\">Mark Carney, said its policymakers would not take risks with this recovery</a>, which is as yet \"neither balanced nor sustainable\".</p> \n<p>The retail prices index, historically used to calculate wage rises, rose to 2.8% in January from 2.7% in December, driven higher by insurance, air fares and fuel prices.</p>"
+                                    "html": "<p>Ministers should not “rush into” a decision to ditch face masks in schools in England because the existing policy is helping prevent the spread of Covid, the leaders of five major unions say.</p> \n<p>The Department for Education (DfE) and Public Health England (PHE) have been conducting a rapid review of guidance that recommends that children and teachers should wear face coverings to prevent the spread of Covid-19, with the possibility that masks should not be worn when the summer term starts after Easter.</p> \n<p>That would be a mistake, according to a joint letter to Gavin Williamson, the education secretary, from the leaders of GMB, Unison, NASUWT, the National Association of Head Teachers and the National Education Union.</p> \n<p>The unions, which represent teachers, heads and other school staff, say masks may be helping suppress Covid transmission in schools and are not causing disruption to learning.</p>"
+                                }
+                            },
+                            {
+                                "type": "contentatom",
+                                "assets": [],
+                                "contentAtomTypeData": {
+                                    "atomId": "interactives/2020/08/uk-coronavirus-dashboard-v2/line-chart-age",
+                                    "atomType": "interactive"
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "assets": [],
+                                "textTypeData": {
+                                    "html": "<p>“None of us wants to see pupils or staff wearing face coverings for longer than is necessary,” the letter states.</p> \n<p>“However, it is our shared view that the government should not rush into changing this policy at short notice without careful consideration of the scientific evidence surrounding the wearing of face coverings in schools.”</p> \n<p>The unions say there is “a strong scientific consensus” that masks “can and should” be part of anti-Covid measures.</p> \n<p>“The research suggests that they cut down the chances of both transmitting and catching the coronavirus,” the leaders say. “We have also seen the emergence of more recent studies that suggest that they can help to reduce transmission of the virus within schools.”</p> \n<p><a href=\"https://www.medrxiv.org/content/10.1101/2021.02.27.21252597v1.full.pdf\">A study of more than 500,000 parents in the US</a> by researchers at Johns Hopkins University showed that people living with children educated in schools had a raised risk of catching Covid, but that measures to prevent transmission, including face masks, helped reduce the risk. </p> \n<p>The latest government data shows that the number of Covid cases has been falling less steeply in the last few weeks and the R number of how cases are spreading is broadly flat or shrinking by up to 4% a day.</p>"
+                                }
+                            },
+                            {
+                                "type": "contentatom",
+                                "assets": [],
+                                "contentAtomTypeData": {
+                                    "atomId": "interactives/2020/03/covid-19-uk/default",
+                                    "atomType": "interactive"
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "assets": [],
+                                "textTypeData": {
+                                    "html": "<p>But while cases for most of the population are falling, there has been a rise among those aged 10-19 for the last four weeks, according to <a href=\"https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports\">the latest PHE Covid surveillance report</a>.</p> \n<p>“While the DfE’s own data has shown a recent increase in the number of pupils absent for Covid-19 related reasons, it is not unreasonable to assume that the wearing of face coverings could actually be restraining this increase,” the union leaders say.</p> \n<p>“The feedback we have received so far from members is that, for the most part, the face coverings policy is being well adhered to and not causing any significant disruption in schools.</p> \n<p>“We have also received feedback to suggest that a significant number of pupils, parents and staff have reported feeling safer as a result of wearing face coverings in schools.”</p> \n<p>Groups such as Parents United UK have stressed concerns that children who become infected with Covid may pass on the disease to their parents, who are more vulnerable to becoming seriously ill.</p> \n<p>But masks have been <a href=\"https://www.theguardian.com/education/2021/jan/26/group-campaigning-for-uk-schools-to-reopen-wins-backing-of-17-tory-mps\">opposed by some groups including UsforThem</a>, which has said it will take legal action against Williamson if he does not withdraw the guidance on masks.</p> \n<p>The group is politically influential – it is advised by a Conservative lobbyist and has the backing of Tory MPs such as Steve Baker, who formed the Covid Recovery Group last November to argue that lockdown restrictions were unnecessary, when the death toll was less than 50,000.</p>"
                                 }
                             }
                         ]

@@ -5,7 +5,7 @@
   <title>NNN</title>
   <meta name="description" content="No Nonsense News">
   <meta name="author" content="SitePoint">
-  <link rel="stylesheet" href="./static/edit.css">
+  <link rel="stylesheet" type="text/css" href="/static/edit.css">
   <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
 </head>
 
@@ -14,7 +14,7 @@
   <ul class="test">
   {{range .}}
   <li>
-    <a href="#">
+    <a href="/article/{{.Slug}}">
       {{.WebTitle}}
     </a>
   </li>

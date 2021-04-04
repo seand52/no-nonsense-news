@@ -5,10 +5,15 @@
   <title>NNN detail</title>
   <meta name="description" content="No Nonsense News">
   <meta name="author" content="SitePoint">
-  <!-- <link rel="stylesheet" href="./static/edit.css"> -->
+  <link rel="stylesheet" type="text/css" href="/static/newsDetail.css">
+  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
 </head>
 
 <body>
-  <h1>News detail</h1>
+  <h1>{{.Response.Content.WebTitle}}</h1>
+  {{.Response.Content.Blocks.Main.BodyHtml}}
+  {{range .Response.Content.Blocks.Body}}
+    {{.BodyDataHtml}}
+  {{end}}
 </body>
 </html>
