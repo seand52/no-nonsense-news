@@ -1,0 +1,33 @@
+body {
+  margin: 0 auto;
+  background: #f2f2f2;
+  color: #444444;
+  font-size: 16px;
+  line-height: 1.8;
+  text-shadow: 0 1px 0 #ffffff;
+  max-width: 32rem;
+  padding: 0 1rem 1rem 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 0.4rem 0 0.4rem 0;
+  border-top: 1px dotted #4F4F4F;
+}
+
+a {
+  display: block;
+  padding: 0.25rem 0 0.5rem 0;
+  text-decoration: none;
+  color: #00449E;
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    max-width: 50rem;
+  }
+}

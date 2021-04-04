@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>NNN</title>
+  <meta name="description" content="No Nonsense News">
+  <meta name="author" content="SitePoint">
+  <link rel="stylesheet" href="./static/edit.css">
+</head>
+
+<body>
+  <h1>Today's Headlines (04/03/2021)</h1>
+  <ul class="test">
+  {{range .}}
+  <li>
+    <a href="#">
+      {{.WebTitle}}
+    </a>
+  </li>
+  {{end}}
+  </ul>
+</body>
+</html>
