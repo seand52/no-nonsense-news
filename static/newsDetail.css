@@ -25,3 +25,14 @@ figcaption {
   margin-bottom: 2rem;
   border-bottom: 2px solid #ccc;
 }
+
+iframe {
+  display: none;
+}
+
+#back-link {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
