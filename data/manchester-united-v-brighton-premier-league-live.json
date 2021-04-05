@@ -1,0 +1,891 @@
+{
+ "response": {
+  "content": {
+   "apiUrl": "https://content.guardianapis.com/football/live/2021/apr/04/manchester-united-v-brighton-premier-league-live",
+   "blocks": {
+    "body": [
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e36 min \u003c/strong\u003eGreenwood releases Wan-Bissaka on the right for the first time in the game. He hammers a low cross that is cleared at the near post by Bissouma. That wasn’t great from Wan-Bissaka, whose attacking ability is becoming a problem for United.\u003c/p\u003e",
+      "bodyTextSummary": "36 min Greenwood releases Wan-Bissaka on the right for the first time in the game. He hammers a low cross that is cleared at the near post by Bissouma. That wasn’t great from Wan-Bissaka, whose attacking ability is becoming a problem for United.",
+      "contributors": [],
+      "createdDate": "2021-04-04T19:07:12Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e36 min \u003c/strong\u003eGreenwood releases Wan-Bissaka on the right for the first time in the game. He hammers a low cross that is cleared at the near post by Bissouma. That wasn’t great from Wan-Bissaka, whose attacking ability is becoming a problem for United.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T19:08:07Z",
+      "id": "606a0e608f087a7cbd51fd06",
+      "lastModifiedDate": "2021-04-04T19:08:40Z",
+      "published": true,
+      "publishedDate": "2021-04-04T19:08:41Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e34 min \u003c/strong\u003e“Hadn’t we established ages ago that United play so much better when Fred and McTominay play in front of the defence and Fernandes has more of a licence to orchestrate attacks?” says Kevin Wilson. “Every time this is disrupted to bring Pogba in, things go wrong.”\u003c/p\u003e \u003cp\u003eWhile I know what you mean, I don’t think that’s been United’s problem today. Their passing has been crap, and McTominay for Pogba isn’t going to improve that.\u003c/p\u003e",
+      "bodyTextSummary": "34 min “Hadn’t we established ages ago that United play so much better when Fred and McTominay play in front of the defence and Fernandes has more of a licence to orchestrate attacks?” says Kevin Wilson. “Every time this is disrupted to bring Pogba in, things go wrong.” While I know what you mean, I don’t think that’s been United’s problem today. Their passing has been crap, and McTominay for Pogba isn’t going to improve that.",
+      "contributors": [],
+      "createdDate": "2021-04-04T19:05:04Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e34 min \u003c/strong\u003e“Hadn’t we established ages ago that United play so much better when Fred and McTominay play in front of the defence and Fernandes has more of a licence to orchestrate attacks?” says Kevin Wilson. “Every time this is disrupted to bring Pogba in, things go wrong.”\u003c/p\u003e \n\u003cp\u003eWhile I know what you mean, I don’t think that’s been United’s problem today. Their passing has been crap, and McTominay for Pogba isn’t going to improve that.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T19:05:26Z",
+      "id": "606a0de08f087a7cbd51fcff",
+      "lastModifiedDate": "2021-04-04T19:06:10Z",
+      "published": true,
+      "publishedDate": "2021-04-04T19:06:11Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e31 min \u003c/strong\u003eCavani misses a chance to put Rashford through, overhitting a relatively straightforward pass. That sums up a sloppy performance from United so far.\u003c/p\u003e",
+      "bodyTextSummary": "31 min Cavani misses a chance to put Rashford through, overhitting a relatively straightforward pass. That sums up a sloppy performance from United so far.",
+      "contributors": [],
+      "createdDate": "2021-04-04T19:01:58Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e31 min \u003c/strong\u003eCavani misses a chance to put Rashford through, overhitting a relatively straightforward pass. That sums up a sloppy performance from United so far.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T19:03:42Z",
+      "id": "606a0d268f083302090e4962",
+      "lastModifiedDate": "2021-04-04T19:03:42Z",
+      "published": true,
+      "publishedDate": "2021-04-04T19:03:42Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e28 min \u003c/strong\u003eBrighton’s defence is extremely narrow, which is an effective tactic against a United team who, with the exception of Luke Shaw, don’t really have the ability to get round the back.\u003c/p\u003e",
+      "bodyTextSummary": "28 min Brighton’s defence is extremely narrow, which is an effective tactic against a United team who, with the exception of Luke Shaw, don’t really have the ability to get round the back.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:58:55Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e28 min \u003c/strong\u003eBrighton’s defence is extremely narrow, which is an effective tactic against a United team who, with the exception of Luke Shaw, don’t really have the ability to get round the back.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T19:00:43Z",
+      "id": "606a0c6f8f08611d06d8be5b",
+      "lastModifiedDate": "2021-04-04T19:00:42Z",
+      "published": true,
+      "publishedDate": "2021-04-04T19:00:43Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e27 min \u003c/strong\u003eGross’s corner is dropped by Henderson, who is very relieved to see it fall to Maguire rather than one of the Brighton players. He looks unconvincing on corners; Brighton have been deliberately dropping them right under the crossbar.\u003c/p\u003e",
+      "bodyTextSummary": "27 min Gross’s corner is dropped by Henderson, who is very relieved to see it fall to Maguire rather than one of the Brighton players. He looks unconvincing on corners; Brighton have been deliberately dropping them right under the crossbar.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:58:06Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e27 min \u003c/strong\u003eGross’s corner is dropped by Henderson, who is very relieved to see it fall to Maguire rather than one of the Brighton players. He looks unconvincing on corners; Brighton have been deliberately dropping them right under the crossbar.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:58:46Z",
+      "id": "606a0c3e8f087a7cbd51fce4",
+      "lastModifiedDate": "2021-04-04T18:59:14Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:59:14Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e26 min \u003c/strong\u003eUnited’s passing has gone to seed since Brighton took the lead. They can be such a moody team.\u003c/p\u003e",
+      "bodyTextSummary": "26 min United’s passing has gone to seed since Brighton took the lead. They can be such a moody team.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:56:20Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e26 min \u003c/strong\u003eUnited’s passing has gone to seed since Brighton took the lead. They can be such a moody team.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:57:54Z",
+      "id": "606a0bd38f087a7cbd51fce1",
+      "lastModifiedDate": "2021-04-04T18:57:53Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:57:54Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e24 min \u003c/strong\u003e“Hello Rob,” says Adam Roberts. “The pitch is playing quite strangely; there has been a number of instances of players slipping and, more than once, players leaving the ball behind as if it didn’t run smoothly - the latest example was Greenwood.”\u003c/p\u003e \u003cp\u003eI blame that bloody Rod Stewart concert.\u003c/p\u003e",
+      "bodyTextSummary": "24 min “Hello Rob,” says Adam Roberts. “The pitch is playing quite strangely; there has been a number of instances of players slipping and, more than once, players leaving the ball behind as if it didn’t run smoothly - the latest example was Greenwood.” I blame that bloody Rod Stewart concert.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:54:18Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e24 min \u003c/strong\u003e“Hello Rob,” says Adam Roberts. “The pitch is playing quite strangely; there has been a number of instances of players slipping and, more than once, players leaving the ball behind as if it didn’t run smoothly - the latest example was Greenwood.”\u003c/p\u003e \n\u003cp\u003eI blame that bloody Rod Stewart concert.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:55:07Z",
+      "id": "606a0b5a8f08611d06d8be55",
+      "lastModifiedDate": "2021-04-04T18:55:06Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:55:07Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e23 min \u003c/strong\u003eVeltman makes an important tackle to stop Greenwood running onto Pogba’s neat pass.\u003c/p\u003e",
+      "bodyTextSummary": "23 min Veltman makes an important tackle to stop Greenwood running onto Pogba’s neat pass.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:53:36Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e23 min \u003c/strong\u003eVeltman makes an important tackle to stop Greenwood running onto Pogba’s neat pass.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:53:49Z",
+      "id": "606a0b308f087a7cbd51fcdc",
+      "lastModifiedDate": "2021-04-04T18:53:49Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:53:49Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e22 min \u003c/strong\u003eManchester United have been very good at coming from behind this season, though all of those fightbacks have been away from home. By my calculation they have goe behind three times at Old Trafford in the league, and lost all three. They did come from 1-0 down to beat Liverpool in the FA Cup though.\u003c/p\u003e",
+      "bodyTextSummary": "22 min Manchester United have been very good at coming from behind this season, though all of those fightbacks have been away from home. By my calculation they have goe behind three times at Old Trafford in the league, and lost all three. They did come from 1-0 down to beat Liverpool in the FA Cup though.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:51:56Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e22 min \u003c/strong\u003eManchester United have been very good at coming from behind this season, though all of those fightbacks have been away from home. By my calculation they have goe behind three times at Old Trafford in the league, and lost all three. They did come from 1-0 down to beat Liverpool in the FA Cup though.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:52:51Z",
+      "id": "606a0acc8f083302090e494e",
+      "lastModifiedDate": "2021-04-04T18:53:26Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:53:26Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e21 min \u003c/strong\u003e“I’m glad you’re going with ‘Fernandes’ and not the increasingly common ‘Bruno’ in the MBM,” says Gary Naylor. “Some players seem to acquire this level of familiarity (‘Trent’) with fans as if they’re in their WhatsApp group and they’re going down the pub with them the moment they open. I suggest it’s acquired from pundits, who are, of course, on first name terms with some players and not with others.”\u003c/p\u003e \u003cp\u003eCheers Naylor.\u003c/p\u003e",
+      "bodyTextSummary": "21 min “I’m glad you’re going with ‘Fernandes’ and not the increasingly common ‘Bruno’ in the MBM,” says Gary Naylor. “Some players seem to acquire this level of familiarity (‘Trent’) with fans as if they’re in their WhatsApp group and they’re going down the pub with them the moment they open. I suggest it’s acquired from pundits, who are, of course, on first name terms with some players and not with others.” Cheers Naylor.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:51:05Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e21 min \u003c/strong\u003e“I’m glad you’re going with ‘Fernandes’ and not the increasingly common ‘Bruno’ in the MBM,” says Gary Naylor. “Some players seem to acquire this level of familiarity (‘Trent’) with fans as if they’re in their WhatsApp group and they’re going down the pub with them the moment they open. I suggest it’s acquired from pundits, who are, of course, on first name terms with some players and not with others.”\u003c/p\u003e \n\u003cp\u003eCheers Naylor.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:51:42Z",
+      "id": "606a0a998f087a7cbd51fcd6",
+      "lastModifiedDate": "2021-04-04T18:51:41Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:51:42Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e19 min \u003c/strong\u003eDunk almost makes it 2-0! Gross curled in a good free-kick from the left, and Dunk got in front of Wan-Bissaka to steer a header towards goal. It was close enough for Henderson to stretch and push it onto the top of the bar.\u003c/p\u003e",
+      "bodyTextSummary": "19 min Dunk almost makes it 2-0! Gross curled in a good free-kick from the left, and Dunk got in front of Wan-Bissaka to steer a header towards goal. It was close enough for Henderson to stretch and push it onto the top of the bar.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:49:37Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e19 min \u003c/strong\u003eDunk almost makes it 2-0! Gross curled in a good free-kick from the left, and Dunk got in front of Wan-Bissaka to steer a header towards goal. It was close enough for Henderson to stretch and push it onto the top of the bar.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:50:30Z",
+      "id": "606a0a418f087a7cbd51fcd4",
+      "lastModifiedDate": "2021-04-04T18:50:53Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:50:53Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e17 min \u003c/strong\u003eAfter a slow start, Brighton are into their work now and have a bit of a strut on.\u003c/p\u003e",
+      "bodyTextSummary": "17 min After a slow start, Brighton are into their work now and have a bit of a strut on.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:47:26Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e17 min \u003c/strong\u003eAfter a slow start, Brighton are into their work now and have a bit of a strut on.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:49:01Z",
+      "id": "606a09be8f083302090e4941",
+      "lastModifiedDate": "2021-04-04T18:49:01Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:49:01Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e14 min \u003c/strong\u003eAaron Wan-Bissaka can be slightly dozy on crosses, and that was another example. He was the one marking Welbeck, who was able to lose him far too easily.\u003c/p\u003e",
+      "bodyTextSummary": "14 min Aaron Wan-Bissaka can be slightly dozy on crosses, and that was another example. He was the one marking Welbeck, who was able to lose him far too easily.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:45:22Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e14 min \u003c/strong\u003eAaron Wan-Bissaka can be slightly dozy on crosses, and that was another example. He was the one marking Welbeck, who was able to lose him far too easily.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:46:16Z",
+      "id": "606a09428f08611d06d8be3b",
+      "lastModifiedDate": "2021-04-04T18:46:16Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:46:16Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003ePogba played a sloppy pass to Fred\u003c/strong\u003e, who was partially obstructed by the referee Mike Dean. Trossard nicked the ball and moved it out to the right, where Maupay curled in a superb cross. Welbeck’s downward header was brilliantly saved by Henderson, but the ball bounced up perfectly for Welbeck to head into the net at the second attempt.\u003c/p\u003e",
+      "bodyTextSummary": "Pogba played a sloppy pass to Fred, who was partially obstructed by the referee Mike Dean. Trossard nicked the ball and moved it out to the right, where Maupay curled in a superb cross. Welbeck’s downward header was brilliantly saved by Henderson, but the ball bounced up perfectly for Welbeck to head into the net at the second attempt.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:44:24Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003ePogba played a sloppy pass to Fred\u003c/strong\u003e, who was partially obstructed by the referee Mike Dean. Trossard nicked the ball and moved it out to the right, where Maupay curled in a superb cross. Welbeck’s downward header was brilliantly saved by Henderson, but the ball bounced up perfectly for Welbeck to head into the net at the second attempt.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:45:18Z",
+      "id": "606a09088f08611d06d8be3a",
+      "lastModifiedDate": "2021-04-04T18:48:22Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:48:23Z"
+     },
+     {
+      "attributes": {
+       "keyEvent": true,
+       "pinned": false,
+       "title": "GOAL! Man Utd 0-1 Brighton (Welbeck 13)"
+      },
+      "bodyHtml": "\u003cp\u003eDanny Welbeck scores against his old club!\u003c/p\u003e  \u003cfigure class=\"element element-image\" data-media-id=\"cdd784a903807734197b92b2f2ae002c649721ae\"\u003e \u003cimg src=\"https://media.guim.co.uk/cdd784a903807734197b92b2f2ae002c649721ae/0_44_2767_1809/1000.jpg\" alt=\"Brighton and Hove Albion’s Danny Welbeck scores their side’s first goal of the game.\" width=\"1000\" height=\"654\" class=\"gu-image\" /\u003e \u003cfigcaption\u003e \u003cspan class=\"element-image__caption\"\u003eBrighton and Hove Albion’s Danny Welbeck scores their side’s first goal of the game.\u003c/span\u003e \u003cspan class=\"element-image__credit\"\u003ePhotograph: Phil Noble/PA\u003c/span\u003e \u003c/figcaption\u003e \u003c/figure\u003e",
+      "bodyTextSummary": "Danny Welbeck scores against his old club!",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:43:57Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eDanny Welbeck scores against his old club!\u003c/p\u003e"
+        },
+        "type": "text"
+       },
+       {
+        "assets": [
+         {
+          "file": "https://media.guim.co.uk/cdd784a903807734197b92b2f2ae002c649721ae/0_44_2767_1809/2767.jpg",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "typeData": {
+           "height": 1809,
+           "width": 2767
+          }
+         },
+         {
+          "file": "https://media.guim.co.uk/cdd784a903807734197b92b2f2ae002c649721ae/0_44_2767_1809/master/2767.jpg",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "typeData": {
+           "height": 1809,
+           "isMaster": true,
+           "width": 2767
+          }
+         },
+         {
+          "file": "https://media.guim.co.uk/cdd784a903807734197b92b2f2ae002c649721ae/0_44_2767_1809/2000.jpg",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "typeData": {
+           "height": 1308,
+           "width": 2000
+          }
+         },
+         {
+          "file": "https://media.guim.co.uk/cdd784a903807734197b92b2f2ae002c649721ae/0_44_2767_1809/1000.jpg",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "typeData": {
+           "height": 654,
+           "width": 1000
+          }
+         },
+         {
+          "file": "https://media.guim.co.uk/cdd784a903807734197b92b2f2ae002c649721ae/0_44_2767_1809/500.jpg",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "typeData": {
+           "height": 327,
+           "width": 500
+          }
+         },
+         {
+          "file": "https://media.guim.co.uk/cdd784a903807734197b92b2f2ae002c649721ae/0_44_2767_1809/140.jpg",
+          "mimeType": "image/jpeg",
+          "type": "image",
+          "typeData": {
+           "height": 92,
+           "width": 140
+          }
+         }
+        ],
+        "imageTypeData": {
+         "alt": "Brighton and Hove Albion’s Danny Welbeck scores their side’s first goal of the game.",
+         "caption": "Brighton and Hove Albion’s Danny Welbeck scores their side’s first goal of the game.",
+         "credit": "Photograph: Phil Noble/PA",
+         "displayCredit": true,
+         "imageType": "Photograph",
+         "mediaApiUri": "https://api.media.gutools.co.uk/images/cdd784a903807734197b92b2f2ae002c649721ae",
+         "mediaId": "cdd784a903807734197b92b2f2ae002c649721ae",
+         "photographer": "Phil Noble",
+         "source": "PA",
+         "suppliersReference": "SOCCER_Man_Utd_195110.JPG"
+        },
+        "type": "image"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:44:10Z",
+      "id": "606a08ec8f083302090e4939",
+      "lastModifiedDate": "2021-04-04T18:57:50Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:57:50Z",
+      "title": "GOAL! Man Utd 0-1 Brighton (Welbeck 13)"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e12 min \u003c/strong\u003eGross’s very deep cross is headed back across the area by Welbeck. Trossard takes the ball on the run but is shepherded out of play by Lindelof and Maguire.\u003c/p\u003e",
+      "bodyTextSummary": "12 min Gross’s very deep cross is headed back across the area by Welbeck. Trossard takes the ball on the run but is shepherded out of play by Lindelof and Maguire.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:42:47Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e12 min \u003c/strong\u003eGross’s very deep cross is headed back across the area by Welbeck. Trossard takes the ball on the run but is shepherded out of play by Lindelof and Maguire.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:43:24Z",
+      "id": "606a08a78f083302090e4935",
+      "lastModifiedDate": "2021-04-04T18:43:24Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:43:24Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e8 min: Greenwood hits the post! \u003c/strong\u003eFernandes’s cross from the left was headed away to the edge of the area by the backpedalling Dunk. Greenwood waited for the ball to bounce and cracked a right-footed shot that smacked off the outside of the post. It was a really clean hit, though I suspect Sanchez had it covered.\u003c/p\u003e",
+      "bodyTextSummary": "8 min: Greenwood hits the post! Fernandes’s cross from the left was headed away to the edge of the area by the backpedalling Dunk. Greenwood waited for the ball to bounce and cracked a right-footed shot that smacked off the outside of the post. It was a really clean hit, though I suspect Sanchez had it covered.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:39:28Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e8 min: Greenwood hits the post! \u003c/strong\u003eFernandes’s cross from the left was headed away to the edge of the area by the backpedalling Dunk. Greenwood waited for the ball to bounce and cracked a right-footed shot that smacked off the outside of the post. It was a really clean hit, though I suspect Sanchez had it covered.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:40:09Z",
+      "id": "606a07e08f08611d06d8be2d",
+      "lastModifiedDate": "2021-04-04T18:40:23Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:40:23Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e8 min \u003c/strong\u003eBrighton are struggling to get out of their half at the moment. United look sharp, particularly Shaw and Rashford on the left.\u003c/p\u003e",
+      "bodyTextSummary": "8 min Brighton are struggling to get out of their half at the moment. United look sharp, particularly Shaw and Rashford on the left.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:38:40Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e8 min \u003c/strong\u003eBrighton are struggling to get out of their half at the moment. United look sharp, particularly Shaw and Rashford on the left.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:39:05Z",
+      "id": "606a07b08f08611d06d8be2c",
+      "lastModifiedDate": "2021-04-04T18:39:05Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:39:05Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e7 min \u003c/strong\u003eAfter a couple of minutes of treatment, Bissouma is able to continue. \u003c/p\u003e",
+      "bodyTextSummary": "7 min After a couple of minutes of treatment, Bissouma is able to continue.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:36:58Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e7 min \u003c/strong\u003eAfter a couple of minutes of treatment, Bissouma is able to continue. \u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:38:06Z",
+      "id": "606a074a8f08611d06d8be27",
+      "lastModifiedDate": "2021-04-04T18:38:06Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:38:06Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e5 min \u003c/strong\u003eBissouma is in a lot of pain after falling awkwardly. This doesn’t look great; it’s a problem with his left arm.\u003c/p\u003e",
+      "bodyTextSummary": "5 min Bissouma is in a lot of pain after falling awkwardly. This doesn’t look great; it’s a problem with his left arm.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:35:50Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e5 min \u003c/strong\u003eBissouma is in a lot of pain after falling awkwardly. This doesn’t look great; it’s a problem with his left arm.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:36:42Z",
+      "id": "606a07068f087a7cbd51fcb2",
+      "lastModifiedDate": "2021-04-04T18:36:42Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:36:42Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e4 min \u003c/strong\u003eUnited have strated brightly, which isn’t always the case. Bruno Fernandes has the first shot, swishing over the bar from 20 yards.\u003c/p\u003e",
+      "bodyTextSummary": "4 min United have strated brightly, which isn’t always the case. Bruno Fernandes has the first shot, swishing over the bar from 20 yards.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:33:13Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e4 min \u003c/strong\u003eUnited have strated brightly, which isn’t always the case. Bruno Fernandes has the first shot, swishing over the bar from 20 yards.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:34:55Z",
+      "id": "606a06698f08611d06d8be1f",
+      "lastModifiedDate": "2021-04-04T18:34:54Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:34:55Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e1 min \u003c/strong\u003ePeep peep! Brighton kick off from right to left.\u003c/p\u003e",
+      "bodyTextSummary": "1 min Peep peep! Brighton kick off from right to left.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:31:20Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e1 min \u003c/strong\u003ePeep peep! Brighton kick off from right to left.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:31:28Z",
+      "id": "606a05f88f08611d06d8be1c",
+      "lastModifiedDate": "2021-04-04T18:31:28Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:31:28Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003eThe players stroll out on a calm, dry evening in Manchester\u003c/strong\u003e. Let’s play darts.\u003c/p\u003e",
+      "bodyTextSummary": "The players stroll out on a calm, dry evening in Manchester. Let’s play darts.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:27:57Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003eThe players stroll out on a calm, dry evening in Manchester\u003c/strong\u003e. Let’s play darts.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:28:12Z",
+      "id": "606a052d8f083302090e491d",
+      "lastModifiedDate": "2021-04-04T18:29:06Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:29:06Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e“Evening Rob,”\u003c/strong\u003e says Geoff Wignall. “I suspect it was a very regional or even more local thing, but David Wall might be interested that in my underage drinking days (and later) a pint of wallop was a mild + bitter mix.” \u003c/p\u003e \u003cp\u003eBrown ale and mild? I’m pretty sure I’m getting a hangover just from reading that.\u003c/p\u003e",
+      "bodyTextSummary": "“Evening Rob,” says Geoff Wignall. “I suspect it was a very regional or even more local thing, but David Wall might be interested that in my underage drinking days (and later) a pint of wallop was a mild + bitter mix.” Brown ale and mild? I’m pretty sure I’m getting a hangover just from reading that.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:24:32Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e“Evening Rob,”\u003c/strong\u003e says Geoff Wignall. “I suspect it was a very regional or even more local thing, but David Wall might be interested that in my underage drinking days (and later) a pint of wallop was a mild + bitter mix.” \u003c/p\u003e \n\u003cp\u003eBrown ale and mild? I’m pretty sure I’m getting a hangover just from reading that.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:27:38Z",
+      "id": "606a04608f083302090e4917",
+      "lastModifiedDate": "2021-04-04T18:28:28Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:28:28Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003eThis is only the second time since the 2013-14 season \u003c/strong\u003ethat David de Gea has been on the bench for a Premier League game. The other instance was the match away to Sheffield United earlier this season.\u003c/p\u003e",
+      "bodyTextSummary": "This is only the second time since the 2013-14 season that David de Gea has been on the bench for a Premier League game. The other instance was the match away to Sheffield United earlier this season.",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:23:26Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003eThis is only the second time since the 2013-14 season \u003c/strong\u003ethat David de Gea has been on the bench for a Premier League game. The other instance was the match away to Sheffield United earlier this season.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:24:12Z",
+      "id": "606a041e8f083302090e4913",
+      "lastModifiedDate": "2021-04-04T18:25:50Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:25:50Z"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003e“Hi Rob,”\u003c/strong\u003e says David Wall. “A random thought from your earlier MBM on the Newcastle - Spurs game, what a lovely word ‘wallop’ is. The kind of thing Ted Hastings might work into a colloquial phrase or other.”\u003c/p\u003e",
+      "bodyTextSummary": "“Hi Rob,” says David Wall. “A random thought from your earlier MBM on the Newcastle - Spurs game, what a lovely word ‘wallop’ is. The kind of thing Ted Hastings might work into a colloquial phrase or other.”",
+      "contributors": [],
+      "createdDate": "2021-04-04T18:06:43Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003e“Hi Rob,”\u003c/strong\u003e says David Wall. “A random thought from your earlier MBM on the Newcastle - Spurs game, what a lovely word ‘wallop’ is. The kind of thing Ted Hastings might work into a colloquial phrase or other.”\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T18:11:08Z",
+      "id": "606a00338f08611d06d8bddd",
+      "lastModifiedDate": "2021-04-04T18:11:07Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:11:08Z"
+     },
+     {
+      "attributes": {
+       "keyEvent": true,
+       "pinned": false,
+       "title": "Martial could be out for the rest of the season"
+      },
+      "bodyHtml": "\u003cp\u003eOle Gunnar Solskjaer has just said Anthony Martial may not play again this season because of a knee injury. As exasperating as he can be, that would still be a big blow to United’s hopes of winning the Europa League.\u003c/p\u003e",
+      "bodyTextSummary": "Ole Gunnar Solskjaer has just said Anthony Martial may not play again this season because of a knee injury. As exasperating as he can be, that would still be a big blow to United’s hopes of winning the Europa League.",
+      "contributors": [],
+      "createdDate": "2021-04-04T17:56:22Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eOle Gunnar Solskjaer has just said Anthony Martial may not play again this season because of a knee injury. As exasperating as he can be, that would still be a big blow to United’s hopes of winning the Europa League.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T17:58:01Z",
+      "id": "6069fdc68f083302090e48e5",
+      "lastModifiedDate": "2021-04-04T17:58:01Z",
+      "published": true,
+      "publishedDate": "2021-04-04T17:58:01Z",
+      "title": "Martial could be out for the rest of the season"
+     },
+     {
+      "attributes": {
+       "pinned": false
+      },
+      "bodyHtml": "\u003cp\u003e\u003cstrong\u003eIt’s already been an eventful day in the Premier League. \u003c/strong\u003eRead all about it by clicking the clickable things below.\u003c/p\u003e \u003cul\u003e \u003cli\u003e\u003ca href=\"https://www.theguardian.com/football/2021/apr/04/southampton-burnley-premier-league-match-report\"\u003eSouthampton 3-2 Burnley\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"https://www.theguardian.com/football/2021/apr/04/newcastle-tottenham-premier-league-match-report\"\u003eNewcastle 2-2 Tottenham\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"https://www.theguardian.com/football/2021/apr/04/aston-villa-fulham-premier-league-match-report\"\u003eAston Villa 3-1 Fulham\u003c/a\u003e\u003c/li\u003e \u003c/ul\u003e",
+      "bodyTextSummary": "It’s already been an eventful day in the Premier League. Read all about it by clicking the clickable things below. Southampton 3-2 Burnley Newcastle 2-2 Tottenham Aston Villa 3-1 Fulham",
+      "contributors": [],
+      "createdDate": "2021-04-04T17:44:11Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003e\u003cstrong\u003eIt’s already been an eventful day in the Premier League. \u003c/strong\u003eRead all about it by clicking the clickable things below.\u003c/p\u003e \n\u003cul\u003e \n \u003cli\u003e\u003ca href=\"https://www.theguardian.com/football/2021/apr/04/southampton-burnley-premier-league-match-report\"\u003eSouthampton 3-2 Burnley\u003c/a\u003e\u003c/li\u003e \n \u003cli\u003e\u003ca href=\"https://www.theguardian.com/football/2021/apr/04/newcastle-tottenham-premier-league-match-report\"\u003eNewcastle 2-2 Tottenham\u003c/a\u003e\u003c/li\u003e \n \u003cli\u003e\u003ca href=\"https://www.theguardian.com/football/2021/apr/04/aston-villa-fulham-premier-league-match-report\"\u003eAston Villa 3-1 Fulham\u003c/a\u003e\u003c/li\u003e \n\u003c/ul\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T17:56:21Z",
+      "id": "6069faeb8f087a7cbd51fc36",
+      "lastModifiedDate": "2021-04-04T17:56:21Z",
+      "published": true,
+      "publishedDate": "2021-04-04T17:56:21Z"
+     },
+     {
+      "attributes": {
+       "keyEvent": true,
+       "pinned": false,
+       "title": "Team news: Henderson starts in goal"
+      },
+      "bodyHtml": "\u003cp\u003eUnited’s injury list is not as bad as feared. Marcus Rashford, Mason Greenwood and Edinson Cavani all start, as do Paul Pogba and Dean Henderson, who is preferred to David de Gea. There are two changes from United’s last league game, the scruffy 1-0 win over West Ham three weeks ago: Pogba and Cavani are in for Scott McTominay and Daniel James.\u003c/p\u003e \u003cp\u003eGraham Potter sticks with the Brighton side that hammered Newcastle before the international break.\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eManchester United (4-2-3-1) \u003c/strong\u003eHenderson; Wan-Bissaka, Lindelof, Maguire, Shaw; Pogba, Fred; Greenwood, Fernandes, Rashford; Cavani.\u003cbr\u003e\u003cem\u003eSubstitutes: de Gea, Williams, Tuanzebe, James, Matic, van de Beek, McTominay, Amad.\u003c/em\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eBrighton (3-4-1-2) \u003c/strong\u003eSanchez; White, Dunk, Veltman; Gross, Lallana, Bissouma, Moder; Trossard; Maupay, Welbeck.\u003cbr\u003e\u003cem\u003eSubstitutes: Steele, Karbownik, Mac Allister, Alzate, Propper, Caicedo, Jahanbakhsh, Izquierdo, Zeqiri.\u003c/em\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eReferee \u003c/strong\u003eMike Dean.\u003c/p\u003e",
+      "bodyTextSummary": "United’s injury list is not as bad as feared. Marcus Rashford, Mason Greenwood and Edinson Cavani all start, as do Paul Pogba and Dean Henderson, who is preferred to David de Gea. There are two changes from United’s last league game, the scruffy 1-0 win over West Ham three weeks ago: Pogba and Cavani are in for Scott McTominay and Daniel James. Graham Potter sticks with the Brighton side that hammered Newcastle before the international break. Manchester United (4-2-3-1) Henderson; Wan-Bissaka, Lindelof, Maguire, Shaw; Pogba, Fred; Greenwood, Fernandes, Rashford; Cavani. Substitutes: de Gea, Williams, Tuanzebe, James, Matic, van de Beek, McTominay, Amad. Brighton (3-4-1-2) Sanchez; White, Dunk, Veltman; Gross, Lallana, Bissouma, Moder; Trossard; Maupay, Welbeck. Substitutes: Steele, Karbownik, Mac Allister, Alzate, Propper, Caicedo, Jahanbakhsh, Izquierdo, Zeqiri. Referee Mike Dean.",
+      "contributors": [],
+      "createdDate": "2021-04-04T17:35:23Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eUnited’s injury list is not as bad as feared. Marcus Rashford, Mason Greenwood and Edinson Cavani all start, as do Paul Pogba and Dean Henderson, who is preferred to David de Gea. There are two changes from United’s last league game, the scruffy 1-0 win over West Ham three weeks ago: Pogba and Cavani are in for Scott McTominay and Daniel James.\u003c/p\u003e \n\u003cp\u003eGraham Potter sticks with the Brighton side that hammered Newcastle before the international break.\u003c/p\u003e \n\u003cp\u003e\u003cstrong\u003eManchester United (4-2-3-1) \u003c/strong\u003eHenderson; Wan-Bissaka, Lindelof, Maguire, Shaw; Pogba, Fred; Greenwood, Fernandes, Rashford; Cavani.\u003cbr\u003e\u003cem\u003eSubstitutes: de Gea, Williams, Tuanzebe, James, Matic, van de Beek, McTominay, Amad.\u003c/em\u003e\u003c/p\u003e \n\u003cp\u003e\u003cstrong\u003eBrighton (3-4-1-2) \u003c/strong\u003eSanchez; White, Dunk, Veltman; Gross, Lallana, Bissouma, Moder; Trossard; Maupay, Welbeck.\u003cbr\u003e\u003cem\u003eSubstitutes: Steele, Karbownik, Mac Allister, Alzate, Propper, Caicedo, Jahanbakhsh, Izquierdo, Zeqiri.\u003c/em\u003e\u003c/p\u003e \n\u003cp\u003e\u003cstrong\u003eReferee \u003c/strong\u003eMike Dean.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T17:39:59Z",
+      "id": "6069f8db8f083302090e489b",
+      "lastModifiedDate": "2021-04-04T18:31:50Z",
+      "published": true,
+      "publishedDate": "2021-04-04T18:31:50Z",
+      "title": "Team news: Henderson starts in goal"
+     },
+     {
+      "attributes": {
+       "keyEvent": true,
+       "pinned": false,
+       "title": "Preamble"
+      },
+      "bodyHtml": "\u003cp\u003eIt’s second v sixteenth at Old Trafford. A home banker, right? Well not necessarily. This, for all kinds of reasons, is a really intriguing game. There’s Manchester United’s injury list and relatively modest home form; Brighton’s excellent recent performances and generally strong away form; the fact Brighton have never, ever, ever won at Old Trafford; and \u003ca href=\"https://www.theguardian.com/football/2020/sep/26/brighton-manchester-united-premier-league-match-report\"\u003ethat bizarre game at the Amex Stadium in September\u003c/a\u003e, when Leandro Trossard hit the woodwork 49 times and Bruno Fernandes scored the winning goal after the final whistle had been blown.\u003c/p\u003e \u003cp\u003eWhile United are slightly in limbo - they are 17 points behind Manchester City and have an eight-point cushion from the teams outside the Champions League places - Brighton know exactly what time it is. For all their admirable football, they are still in a relegation battle and need all the points they can get. The league table says they have 32, which is 25 fewer than United. But if you’re into the whole xG thing, both teams should be on 49 points. That theoretical equality is another reason to think this match should be interesting enough to make us all forget the fact we’re missing bloody Line of Duty.\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eKick off \u003c/strong\u003e7.30pm.\u003c/p\u003e",
+      "bodyTextSummary": "It’s second v sixteenth at Old Trafford. A home banker, right? Well not necessarily. This, for all kinds of reasons, is a really intriguing game. There’s Manchester United’s injury list and relatively modest home form; Brighton’s excellent recent performances and generally strong away form; the fact Brighton have never, ever, ever won at Old Trafford; and that bizarre game at the Amex Stadium in September, when Leandro Trossard hit the woodwork 49 times and Bruno Fernandes scored the winning goal after the final whistle had been blown. While United are slightly in limbo - they are 17 points behind Manchester City and have an eight-point cushion from the teams outside the Champions League places - Brighton know exactly what time it is. For all their admirable football, they are still in a relegation battle and need all the points they can get. The league table says they have 32, which is 25 fewer than United. But if you’re into the whole xG thing, both teams should be on 49 points. That theoretical equality is another reason to think this match should be interesting enough to make us all forget the fact we’re missing bloody Line of Duty. Kick off 7.30pm.",
+      "contributors": [],
+      "createdDate": "2021-04-02T10:17:27Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eIt’s second v sixteenth at Old Trafford. A home banker, right? Well not necessarily. This, for all kinds of reasons, is a really intriguing game. There’s Manchester United’s injury list and relatively modest home form; Brighton’s excellent recent performances and generally strong away form; the fact Brighton have never, ever, ever won at Old Trafford; and \u003ca href=\"https://www.theguardian.com/football/2020/sep/26/brighton-manchester-united-premier-league-match-report\"\u003ethat bizarre game at the Amex Stadium in September\u003c/a\u003e, when Leandro Trossard hit the woodwork 49 times and Bruno Fernandes scored the winning goal after the final whistle had been blown.\u003c/p\u003e \n\u003cp\u003eWhile United are slightly in limbo - they are 17 points behind Manchester City and have an eight-point cushion from the teams outside the Champions League places - Brighton know exactly what time it is. For all their admirable football, they are still in a relegation battle and need all the points they can get. The league table says they have 32, which is 25 fewer than United. But if you’re into the whole xG thing, both teams should be on 49 points. That theoretical equality is another reason to think this match should be interesting enough to make us all forget the fact we’re missing bloody Line of Duty.\u003c/p\u003e \n\u003cp\u003e\u003cstrong\u003eKick off \u003c/strong\u003e7.30pm.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-04T17:16:45Z",
+      "id": "6066ef378f08611d06d89d88",
+      "lastModifiedDate": "2021-04-04T17:32:37Z",
+      "published": true,
+      "publishedDate": "2021-04-04T17:32:38Z",
+      "title": "Preamble"
+     }
+    ],
+    "main": {
+     "attributes": {},
+     "bodyHtml": "\u003cfigure class=\"element element-image\" data-media-id=\"7cbe7e738b37024836b0eb6eb83d3286f8b582da\"\u003e \u003cimg src=\"https://media.guim.co.uk/7cbe7e738b37024836b0eb6eb83d3286f8b582da/96_7_3338_2003/1000.jpg\" alt=\"Danny Welbeck (2-R) of Brighton celebrates after scoring.\" width=\"1000\" height=\"600\" class=\"gu-image\" /\u003e \u003cfigcaption\u003e \u003cspan class=\"element-image__caption\"\u003eDanny Welbeck (2-R) of Brighton celebrates after scoring.\u003c/span\u003e \u003cspan class=\"element-image__credit\"\u003ePhotograph: Phil Noble/EPA\u003c/span\u003e \u003c/figcaption\u003e \u003c/figure\u003e",
+     "bodyTextSummary": "",
+     "contributors": [],
+     "createdDate": "2021-04-04T19:00:53Z",
+     "elements": [
+      {
+       "assets": [
+        {
+         "file": "https://media.guim.co.uk/7cbe7e738b37024836b0eb6eb83d3286f8b582da/96_7_3338_2003/2000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 1200,
+          "width": 2000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/7cbe7e738b37024836b0eb6eb83d3286f8b582da/96_7_3338_2003/1000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 600,
+          "width": 1000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/7cbe7e738b37024836b0eb6eb83d3286f8b582da/96_7_3338_2003/500.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 300,
+          "width": 500
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/7cbe7e738b37024836b0eb6eb83d3286f8b582da/96_7_3338_2003/140.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 84,
+          "width": 140
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/7cbe7e738b37024836b0eb6eb83d3286f8b582da/96_7_3338_2003/3338.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 2003,
+          "width": 3338
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/7cbe7e738b37024836b0eb6eb83d3286f8b582da/96_7_3338_2003/master/3338.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 2003,
+          "isMaster": true,
+          "width": 3338
+         }
+        }
+       ],
+       "imageTypeData": {
+        "alt": "Danny Welbeck (2-R) of Brighton celebrates after scoring.",
+        "caption": "Danny Welbeck (2-R) of Brighton celebrates after scoring.",
+        "credit": "Photograph: Phil Noble/EPA",
+        "displayCredit": true,
+        "imageType": "Photograph",
+        "mediaApiUri": "https://api.media.gutools.co.uk/images/7cbe7e738b37024836b0eb6eb83d3286f8b582da",
+        "mediaId": "7cbe7e738b37024836b0eb6eb83d3286f8b582da",
+        "photographer": "Phil Noble",
+        "source": "EPA",
+        "suppliersReference": "PN08"
+       },
+       "type": "image"
+      }
+     ],
+     "firstPublishedDate": "2021-04-03T09:09:18Z",
+     "id": "606a0ce58f083302090e495d",
+     "lastModifiedDate": "2021-04-04T19:01:05Z",
+     "published": true,
+     "publishedDate": "2021-04-04T19:01:07Z"
+    },
+    "totalBodyBlocks": 30
+   },
+   "id": "football/live/2021/apr/04/manchester-united-v-brighton-premier-league-live",
+   "isHosted": false,
+   "pillarId": "pillar/sport",
+   "pillarName": "Sport",
+   "sectionId": "football",
+   "sectionName": "Football",
+   "type": "liveblog",
+   "webPublicationDate": "2021-04-04T19:08:41Z",
+   "webTitle": "Manchester United v Brighton: Premier League – live!",
+   "webUrl": "https://www.theguardian.com/football/live/2021/apr/04/manchester-united-v-brighton-premier-league-live"
+  },
+  "status": "ok",
+  "total": 1,
+  "userTier": "developer"
+ }
+}

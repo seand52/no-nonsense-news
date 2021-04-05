@@ -1,0 +1,53 @@
+{
+ "response": {
+  "currentPage": 1,
+  "orderBy": "newest",
+  "pageSize": 3,
+  "pages": 753218,
+  "results": [
+   {
+    "apiUrl": "https://content.guardianapis.com/football/live/2021/apr/04/manchester-united-v-brighton-premier-league-live",
+    "id": "football/live/2021/apr/04/manchester-united-v-brighton-premier-league-live",
+    "isHosted": false,
+    "pillarId": "pillar/sport",
+    "pillarName": "Sport",
+    "sectionId": "football",
+    "sectionName": "Football",
+    "type": "liveblog",
+    "webPublicationDate": "2021-04-04T18:55:07Z",
+    "webTitle": "Manchester United v Brighton: Premier League – live!",
+    "webUrl": "https://www.theguardian.com/football/live/2021/apr/04/manchester-united-v-brighton-premier-league-live"
+   },
+   {
+    "apiUrl": "https://content.guardianapis.com/world/live/2021/apr/04/coronavirus-live-news-covid-vaccine-passports-trial-england-boris-johnson",
+    "id": "world/live/2021/apr/04/coronavirus-live-news-covid-vaccine-passports-trial-england-boris-johnson",
+    "isHosted": false,
+    "pillarId": "pillar/news",
+    "pillarName": "News",
+    "sectionId": "world",
+    "sectionName": "World news",
+    "type": "liveblog",
+    "webPublicationDate": "2021-04-04T18:53:28Z",
+    "webTitle": "Coronavirus live: Portugal U-turns on allowing travel to Spain; Bangladesh imposes week-long lockdown",
+    "webUrl": "https://www.theguardian.com/world/live/2021/apr/04/coronavirus-live-news-covid-vaccine-passports-trial-england-boris-johnson"
+   },
+   {
+    "apiUrl": "https://content.guardianapis.com/football/2021/apr/04/valencia-walk-off-against-cadiz-after-diakhaby-accuses-opponent-of-racist-abuse",
+    "id": "football/2021/apr/04/valencia-walk-off-against-cadiz-after-diakhaby-accuses-opponent-of-racist-abuse",
+    "isHosted": false,
+    "pillarId": "pillar/sport",
+    "pillarName": "Sport",
+    "sectionId": "football",
+    "sectionName": "Football",
+    "type": "article",
+    "webPublicationDate": "2021-04-04T18:52:22Z",
+    "webTitle": "Valencia walk off against Cádiz after Diakhaby accuses opponent of racist abuse",
+    "webUrl": "https://www.theguardian.com/football/2021/apr/04/valencia-walk-off-against-cadiz-after-diakhaby-accuses-opponent-of-racist-abuse"
+   }
+  ],
+  "startIndex": 1,
+  "status": "ok",
+  "total": 2259652,
+  "userTier": "developer"
+ }
+}
