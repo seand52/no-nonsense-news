@@ -1,0 +1,136 @@
+{
+ "response": {
+  "content": {
+   "apiUrl": "https://content.guardianapis.com/society/2021/apr/06/bmi-test-unsuited-to-males-with-anorexia",
+   "blocks": {
+    "body": [
+     {
+      "attributes": {},
+      "bodyHtml": "\u003cp\u003eThe chair of the Royal College of Psychiatrists is concerned that people with eating disorders in England are denied help until their body mass index is “low enough” (\u003ca href=\"https://www.theguardian.com/society/2021/apr/05/people-with-eating-disorders-in-england-denied-help-as-bmi-not-low-enough\" title=\"\"\u003eReport\u003c/a\u003e, 5 April). The situation is even worse than you report, because at least a tenth of anorexia nervosa sufferers are male. They have lower fat reserves, and their irreducible skeleton is a larger proportion of their body weight. Starvation is therefore quicker to affect their muscles and vital organs.\u003c/p\u003e \u003cp\u003eIn our city, the criterion for hospital admission is a BMI of 14. This seems to be based on experience with young women. Our GP was trying to get our son into hospital for five weeks. Our son was unable to sit up or cough, and had significant renal and liver impairment; he was at death’s door. Only when his BMI reached 14 was he taken to hospital for two months’ physical stabilisation. He then spent six months in a specialised eating disorders unit (60 miles away, as our city had no male beds for anorexia).\u003c/p\u003e \u003cp\u003eAs a crude method of rationing resources for mental health, the BMI criterion of 14 is clearly inefficient. As a condition for treatment, it is dangerous and cruel. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eName and address supplied\u003c/strong\u003e\u003c/p\u003e",
+      "bodyTextSummary": "The chair of the Royal College of Psychiatrists is concerned that people with eating disorders in England are denied help until their body mass index is “low enough” (Report, 5 April). The situation is even worse than you report, because at least a tenth of anorexia nervosa sufferers are male. They have lower fat reserves, and their irreducible skeleton is a larger proportion of their body weight. Starvation is therefore quicker to affect their muscles and vital organs. In our city, the criterion for hospital admission is a BMI of 14. This seems to be based on experience with young women. Our GP was trying to get our son into hospital for five weeks. Our son was unable to sit up or cough, and had significant renal and liver impairment; he was at death’s door. Only when his BMI reached 14 was he taken to hospital for two months’ physical stabilisation. He then spent six months in a specialised eating disorders unit (60 miles away, as our city had no male beds for anorexia). As a crude method of rationing resources for mental health, the BMI criterion of 14 is clearly inefficient. As a condition for treatment, it is dangerous and cruel. Name and address supplied",
+      "contributors": [],
+      "createdDate": "2020-03-20T12:05:38Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eThe chair of the Royal College of Psychiatrists is concerned that people with eating disorders in England are denied help until their body mass index is “low enough” (\u003ca href=\"https://www.theguardian.com/society/2021/apr/05/people-with-eating-disorders-in-england-denied-help-as-bmi-not-low-enough\" title=\"\"\u003eReport\u003c/a\u003e, 5 April). The situation is even worse than you report, because at least a tenth of anorexia nervosa sufferers are male. They have lower fat reserves, and their irreducible skeleton is a larger proportion of their body weight. Starvation is therefore quicker to affect their muscles and vital organs.\u003c/p\u003e \n\u003cp\u003eIn our city, the criterion for hospital admission is a BMI of 14. This seems to be based on experience with young women. Our GP was trying to get our son into hospital for five weeks. Our son was unable to sit up or cough, and had significant renal and liver impairment; he was at death’s door. Only when his BMI reached 14 was he taken to hospital for two months’ physical stabilisation. He then spent six months in a specialised eating disorders unit (60 miles away, as our city had no male beds for anorexia).\u003c/p\u003e \n\u003cp\u003eAs a crude method of rationing resources for mental health, the BMI criterion of 14 is clearly inefficient. As a condition for treatment, it is dangerous and cruel. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eName and address supplied\u003c/strong\u003e\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "id": "5e74b1928f089367b3d0b644",
+      "lastModifiedDate": "2021-04-06T16:02:10Z",
+      "published": true
+     }
+    ],
+    "main": {
+     "attributes": {},
+     "bodyHtml": "\u003cfigure class=\"element element-image\" data-media-id=\"32165cafe08c5146e545acba6bc1c92d8baa9cca\"\u003e \u003cimg src=\"https://media.guim.co.uk/32165cafe08c5146e545acba6bc1c92d8baa9cca/822_351_3621_2173/1000.jpg\" alt=\"Silhouette of man looking out window.\" width=\"1000\" height=\"600\" class=\"gu-image\" /\u003e \u003cfigcaption\u003e \u003cspan class=\"element-image__caption\"\u003e‘A tenth of anorexia nervosa sufferers are male. They have lower fat reserves, and their irreducible skeleton is a larger proportion of their body weight.’ \u003c/span\u003e \u003cspan class=\"element-image__credit\"\u003ePhotograph: Gaetan Charbonneau/Getty Images\u003c/span\u003e \u003c/figcaption\u003e \u003c/figure\u003e",
+     "bodyTextSummary": "",
+     "contributors": [],
+     "createdDate": "2021-04-06T12:26:33Z",
+     "elements": [
+      {
+       "assets": [
+        {
+         "file": "https://media.guim.co.uk/32165cafe08c5146e545acba6bc1c92d8baa9cca/822_351_3621_2173/2000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 1200,
+          "width": 2000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/32165cafe08c5146e545acba6bc1c92d8baa9cca/822_351_3621_2173/1000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 600,
+          "width": 1000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/32165cafe08c5146e545acba6bc1c92d8baa9cca/822_351_3621_2173/500.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 300,
+          "width": 500
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/32165cafe08c5146e545acba6bc1c92d8baa9cca/822_351_3621_2173/140.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 84,
+          "width": 140
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/32165cafe08c5146e545acba6bc1c92d8baa9cca/822_351_3621_2173/3621.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 2173,
+          "width": 3621
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/32165cafe08c5146e545acba6bc1c92d8baa9cca/822_351_3621_2173/master/3621.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 2173,
+          "isMaster": true,
+          "width": 3621
+         }
+        }
+       ],
+       "imageTypeData": {
+        "alt": "Silhouette of man looking out window.",
+        "caption": "‘A tenth of anorexia nervosa sufferers are male. They have lower fat reserves, and their irreducible skeleton is a larger proportion of their body weight.’ ",
+        "credit": "Photograph: Gaetan Charbonneau/Getty Images",
+        "displayCredit": true,
+        "imageType": "Photograph",
+        "mediaApiUri": "https://api.media.gutools.co.uk/images/32165cafe08c5146e545acba6bc1c92d8baa9cca",
+        "mediaId": "32165cafe08c5146e545acba6bc1c92d8baa9cca",
+        "photographer": "Gaetan Charbonneau",
+        "source": "Getty Images",
+        "suppliersReference": "10196704"
+       },
+       "type": "image"
+      }
+     ],
+     "firstPublishedDate": "2021-04-06T12:26:34Z",
+     "id": "606c53798f08611d06d8d5ea",
+     "lastModifiedDate": "2021-04-06T12:27:21Z",
+     "published": true,
+     "publishedDate": "2021-04-06T12:27:21Z"
+    },
+    "totalBodyBlocks": 1
+   },
+   "id": "society/2021/apr/06/bmi-test-unsuited-to-males-with-anorexia",
+   "isHosted": false,
+   "pillarId": "pillar/news",
+   "pillarName": "News",
+   "sectionId": "society",
+   "sectionName": "Society",
+   "type": "article",
+   "webPublicationDate": "2021-04-06T16:27:53Z",
+   "webTitle": "BMI test unsuited to males with anorexia | Letter",
+   "webUrl": "https://www.theguardian.com/society/2021/apr/06/bmi-test-unsuited-to-males-with-anorexia"
+  },
+  "status": "ok",
+  "total": 1,
+  "userTier": "developer"
+ }
+}

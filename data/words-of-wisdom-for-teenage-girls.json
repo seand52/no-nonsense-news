@@ -1,0 +1,137 @@
+{
+ "response": {
+  "content": {
+   "apiUrl": "https://content.guardianapis.com/books/2021/apr/06/words-of-wisdom-for-teenage-girls",
+   "blocks": {
+    "body": [
+     {
+      "attributes": {},
+      "bodyHtml": "\u003cp\u003eEmma Brockes’ article (\u003ca href=\"https://www.theguardian.com/commentisfree/2021/apr/04/writing-child-imagination-books-authors-beverly-cleary\" title=\"\"\u003eForget about irony, witty writing is all it takes to capture a child’s imagination\u003c/a\u003e, 4 April), inspired by the death of the children’s author Beverly Cleary, didn’t mention her brilliant novel Fifteen, written for teenage girls about being a teenage girl. I remember reading it and drinking in every word, and feeling a little less odd with every sentence. Wonderful. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eDebby Holt \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eBath, Somerset\u003c/em\u003e\u003c/p\u003e \u003cp\u003e• My failing eyesight gave me fleeting hope as I misread Boris Johnson’s pledge of a return to “some semblance of normality” (\u003ca href=\"https://www.theguardian.com/world/2021/apr/05/boris-johnson-confirms-easing-of-england-lockdown-next-week\" title=\"\"\u003eReport\u003c/a\u003e, 5 April) as his pledging a return to “some semblance of morality”. Some hope.\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eJohn Fullman \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eThornton Heath, London\u003c/em\u003e\u003c/p\u003e \u003cp\u003e• Give Boris Johnson his due: he announces an imminent return to normality, and the next morning our Guardian is on the doormat by 7.30am for the first time in months. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003ePaul Ticher \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eLeicester\u003c/em\u003e\u003c/p\u003e \u003cp\u003e• “Sir Paul Beresford, dentist and Conservative MP, 75” (Birthdays, 6 April). Good to know that one of his careers is dedicated to trying to alleviate people’s pain. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eMichael Cunningham \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eWolverhampton\u003c/em\u003e\u003c/p\u003e \u003cp\u003e• How very reassuring that Lucy Mangan doesn’t love Schitt’s Creek either (TV and radio, G2, 5 April). I was beginning to think I was alone. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eJudith Silverman \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eRuislip, London\u003c/em\u003e\u003c/p\u003e \u003cp\u003e• First swallows of the year spotted this week at Croxall Lakes (\u003ca href=\"https://www.theguardian.com/politics/2021/mar/31/the-reviews-are-in-were-simply-the-best\" title=\"\"\u003eLetters\u003c/a\u003e, 31 March). \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eElaine Cameron \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eLichfield, Staffordshire\u003c/em\u003e\u003c/p\u003e",
+      "bodyTextSummary": "Emma Brockes’ article (Forget about irony, witty writing is all it takes to capture a child’s imagination, 4 April), inspired by the death of the children’s author Beverly Cleary, didn’t mention her brilliant novel Fifteen, written for teenage girls about being a teenage girl. I remember reading it and drinking in every word, and feeling a little less odd with every sentence. Wonderful. Debby Holt Bath, Somerset • My failing eyesight gave me fleeting hope as I misread Boris Johnson’s pledge of a return to “some semblance of normality” (Report, 5 April) as his pledging a return to “some semblance of morality”. Some hope. John Fullman Thornton Heath, London • Give Boris Johnson his due: he announces an imminent return to normality, and the next morning our Guardian is on the doormat by 7.30am for the first time in months. Paul Ticher Leicester • “Sir Paul Beresford, dentist and Conservative MP, 75” (Birthdays, 6 April). Good to know that one of his careers is dedicated to trying to alleviate people’s pain. Michael Cunningham Wolverhampton • How very reassuring that Lucy Mangan doesn’t love Schitt’s Creek either (TV and radio, G2, 5 April). I was beginning to think I was alone. Judith Silverman Ruislip, London • First swallows of the year spotted this week at Croxall Lakes (Letters, 31 March). Elaine Cameron Lichfield, Staffordshire",
+      "contributors": [],
+      "createdDate": "2020-03-20T12:07:44Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eEmma Brockes’ article (\u003ca href=\"https://www.theguardian.com/commentisfree/2021/apr/04/writing-child-imagination-books-authors-beverly-cleary\" title=\"\"\u003eForget about irony, witty writing is all it takes to capture a child’s imagination\u003c/a\u003e, 4 April), inspired by the death of the children’s author Beverly Cleary, didn’t mention her brilliant novel Fifteen, written for teenage girls about being a teenage girl. I remember reading it and drinking in every word, and feeling a little less odd with every sentence. Wonderful. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eDebby Holt \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eBath, Somerset\u003c/em\u003e\u003c/p\u003e \n\u003cp\u003e• My failing eyesight gave me fleeting hope as I misread Boris Johnson’s pledge of a return to “some semblance of normality” (\u003ca href=\"https://www.theguardian.com/world/2021/apr/05/boris-johnson-confirms-easing-of-england-lockdown-next-week\" title=\"\"\u003eReport\u003c/a\u003e, 5 April) as his pledging a return to “some semblance of morality”. Some hope.\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eJohn Fullman \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eThornton Heath, London\u003c/em\u003e\u003c/p\u003e \n\u003cp\u003e• Give Boris Johnson his due: he announces an imminent return to normality, and the next morning our Guardian is on the doormat by 7.30am for the first time in months. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003ePaul Ticher \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eLeicester\u003c/em\u003e\u003c/p\u003e \n\u003cp\u003e• “Sir Paul Beresford, dentist and Conservative MP, 75” (Birthdays, 6 April). Good to know that one of his careers is dedicated to trying to alleviate people’s pain. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eMichael Cunningham \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eWolverhampton\u003c/em\u003e\u003c/p\u003e \n\u003cp\u003e• How very reassuring that Lucy Mangan doesn’t love Schitt’s Creek either (TV and radio, G2, 5 April). I was beginning to think I was alone. \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eJudith Silverman \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eRuislip, London\u003c/em\u003e\u003c/p\u003e \n\u003cp\u003e• First swallows of the year spotted this week at Croxall Lakes (\u003ca href=\"https://www.theguardian.com/politics/2021/mar/31/the-reviews-are-in-were-simply-the-best\" title=\"\"\u003eLetters\u003c/a\u003e, 31 March). \u003cbr incopy-break-type=\"webbreak\"\u003e\u003cstrong\u003eElaine Cameron \u003c/strong\u003e\u003cbr incopy-break-type=\"webbreak\"\u003e\u003cem\u003eLichfield, Staffordshire\u003c/em\u003e\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "id": "5e74b2108f08bbd83c9f59f2",
+      "lastModifiedDate": "2021-04-06T16:05:12Z",
+      "published": true
+     }
+    ],
+    "main": {
+     "attributes": {},
+     "bodyHtml": "\u003cfigure class=\"element element-image\" data-media-id=\"9850e2d0f63dc143d053a1f24d13c04baebac4dd\"\u003e \u003cimg src=\"https://media.guim.co.uk/9850e2d0f63dc143d053a1f24d13c04baebac4dd/0_203_5300_3178/1000.jpg\" alt=\"Student sleeping in the park with a book over her face\" width=\"1000\" height=\"600\" class=\"gu-image\" /\u003e \u003cfigcaption\u003e \u003cspan class=\"element-image__caption\"\u003eDebby Holt recommends Beverly Cleary’s novel Fifteen.\u003c/span\u003e \u003cspan class=\"element-image__credit\"\u003ePhotograph: incamerastock / Alamy/Alamy\u003c/span\u003e \u003c/figcaption\u003e \u003c/figure\u003e",
+     "bodyTextSummary": "",
+     "contributors": [],
+     "createdDate": "2021-04-06T15:13:21Z",
+     "elements": [
+      {
+       "assets": [
+        {
+         "file": "https://media.guim.co.uk/9850e2d0f63dc143d053a1f24d13c04baebac4dd/0_203_5300_3178/2000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 1200,
+          "width": 2000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/9850e2d0f63dc143d053a1f24d13c04baebac4dd/0_203_5300_3178/1000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 600,
+          "width": 1000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/9850e2d0f63dc143d053a1f24d13c04baebac4dd/0_203_5300_3178/500.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 300,
+          "width": 500
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/9850e2d0f63dc143d053a1f24d13c04baebac4dd/0_203_5300_3178/140.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 84,
+          "width": 140
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/9850e2d0f63dc143d053a1f24d13c04baebac4dd/0_203_5300_3178/5300.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 3178,
+          "width": 5300
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/9850e2d0f63dc143d053a1f24d13c04baebac4dd/0_203_5300_3178/master/5300.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 3178,
+          "isMaster": true,
+          "width": 5300
+         }
+        }
+       ],
+       "imageTypeData": {
+        "alt": "Student sleeping in the park with a book over her face",
+        "caption": "Debby Holt recommends Beverly Cleary’s novel Fifteen.",
+        "credit": "Photograph: incamerastock / Alamy/Alamy",
+        "displayCredit": true,
+        "imageType": "Photograph",
+        "mediaApiUri": "https://api.media.gutools.co.uk/images/9850e2d0f63dc143d053a1f24d13c04baebac4dd",
+        "mediaId": "9850e2d0f63dc143d053a1f24d13c04baebac4dd",
+        "photographer": "incamerastock / Alamy",
+        "picdarUrn": "GD*45254531",
+        "source": "Alamy",
+        "suppliersReference": "ABHM3H"
+       },
+       "type": "image"
+      }
+     ],
+     "firstPublishedDate": "2021-04-06T15:13:21Z",
+     "id": "606c7a918f08611d06d8d851",
+     "lastModifiedDate": "2021-04-06T15:14:22Z",
+     "published": true,
+     "publishedDate": "2021-04-06T15:14:22Z"
+    },
+    "totalBodyBlocks": 1
+   },
+   "id": "books/2021/apr/06/words-of-wisdom-for-teenage-girls",
+   "isHosted": false,
+   "pillarId": "pillar/arts",
+   "pillarName": "Arts",
+   "sectionId": "books",
+   "sectionName": "Books",
+   "type": "article",
+   "webPublicationDate": "2021-04-06T16:26:40Z",
+   "webTitle": "Words of wisdom for teenage girls | Brief letters",
+   "webUrl": "https://www.theguardian.com/books/2021/apr/06/words-of-wisdom-for-teenage-girls"
+  },
+  "status": "ok",
+  "total": 1,
+  "userTier": "developer"
+ }
+}

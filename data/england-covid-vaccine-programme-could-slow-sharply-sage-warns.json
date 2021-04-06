@@ -1,0 +1,174 @@
+{
+ "response": {
+  "content": {
+   "apiUrl": "https://content.guardianapis.com/politics/2021/apr/06/england-covid-vaccine-programme-could-slow-sharply-sage-warns",
+   "blocks": {
+    "body": [
+     {
+      "attributes": {},
+      "bodyHtml": "\u003cp\u003eThe pace of first-dose vaccinations looks set to slow significantly for several weeks after a downwards revision in official forecasts and a delay in the import of 5 million doses from India now expected to last until at least June.\u003c/p\u003e \u003cp\u003eA modelling paper produced for the Sage scientific advisory committee said the pace of England’s vaccination programme could be squeezed to 2.7m a week until the end of July, leaving little surplus for first doses until tens of millions of second doses had been administered.\u003c/p\u003e \u003cp\u003ePublished on Monday, the \u003ca href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/975909/S1182_SPI-M-O_Summary_of_modelling_of_easing_roadmap_step_2_restrictions.pdf\"\u003epaper\u003c/a\u003e said that “the central rollout scenario” provided to academics by the Cabinet Office was considerably slower than previously used.\u003c/p\u003e \u003cp\u003eThat, the document added, amounted to “an average of 2.7m doses per week in England until the end of July (2m thereafter)”, which was compared with “3.2m per week in the previous iteration (3.9m thereafter)”.\u003c/p\u003e  \u003cfigure class=\"element element-interactive interactive\" data-interactive=\"https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js\" data-canonical-url=\"https://interactive.guim.co.uk/uploader/embed/2021/04/vaccinerollout-zip/giv-825DWhW75NY8UmY/\" data-alt=\"Vaccination rates\"\u003e \u003ca href=\"https://interactive.guim.co.uk/uploader/embed/2021/04/vaccinerollout-zip/giv-825DWhW75NY8UmY/\"\u003eVaccination rates\u003c/a\u003e \u003c/figure\u003e  \u003cp\u003eThe projections form part of the model, published on Monday, used by academics from Imperial College London and Warwick University to \u003ca href=\"https://www.theguardian.com/world/2021/apr/05/easing-of-england-lockdown-next-week-highly-unlikely-to-overwhelm-nhs\"\u003eestimate how coronavirus could spread\u003c/a\u003e as restrictions are progressively unlocked by the government.\u003c/p\u003e \u003cp\u003eMinisters have consistently refused to spell out how much of either the Pfizer or AstraZeneca vaccines will be available in future, leaving the officially sanctioned projections cited in modelling papers as the best available public predictions.\u003c/p\u003e \u003cp\u003eMinisters had also hoped to import 5m doses of the AstraZeneca vaccine from the Serum Institute in India to boost UK supply in the coming weeks. But in a further setback to the UK’s plans, the chief executive of the Indian company said that any exports would be delayed until June at the earliest.\u003c/p\u003e \u003cp\u003eAdar Poonawalla said the company, the world’s largest vaccine maker, has “chosen to prioritise India temporarily for two months” in response to a surge in coronavirus cases in its home market – and that the delay could continue after that.\u003c/p\u003e \u003cp\u003e“We are going to have to keep supplying to India, and not anywhere else. Because we have to protect our nation,” he said, admitting that decision had put a “strain on our contractual obligations” to provide vaccines to other countries.\u003c/p\u003e \u003cp\u003eIn England, the requirement for second doses in England rises to between 2.1m and 2.4m a week from the middle of April, in response to the speeding up of the vaccination programme during January. On paper, that leaves only a small surplus for new first doses of a few hundred thousand a week.\u003c/p\u003e  \u003cfigure class=\"element element-atom\"\u003e \u003cgu-atom data-atom-id=\"interactives/2020/03/covid-19-uk/default\"         data-atom-type=\"interactive\"    \u003e \u003c/gu-atom\u003e \u003c/figure\u003e   \u003cp\u003eThe modelling paper, from the Sage SPI-M modelling subcommittee, added: “As the dates of second doses for the over-50-year-olds are now largely fixed, this slower scenario has the effect of reducing the proportion of under-50-year-olds who are protected at the time of steps 3 and 4.”\u003c/p\u003e \u003cp\u003eStep 3 is the unlocking currently proposed for 17 May, where indoor mixing will be allowed and pubs and restaurants can reopen indoors. Step 4 is the final stage of unlocking on 21 June, when in theory nightclubs are supposed to be allowed to reopen.\u003c/p\u003e \u003cp\u003eAlthough the figures cited are for England, the supply of vaccines is spread around the UK on a population-based formula and the impact on the other nations will therefore be the same. England represents 84% of the UK population, meaning the overall supply on this projection would be about 3.2m a week.\u003c/p\u003e \u003cp\u003eNadhim Zahawi, the vaccines minister, said at the end of March that \u003ca href=\"https://www.theguardian.com/society/2021/mar/28/moderna-covid-vaccine-to-be-introduced-in-uk-from-april\"\u003e“April will be second-dose month”\u003c/a\u003e and the first dose programme has already been paused because of the shortfalls in supply from AstraZeneca. Those aged under 50 and who are in good health are still waiting for their first jab.\u003c/p\u003e \u003cp\u003eQuestions also loom about whether the AstraZeneca vaccine will be made \u003ca href=\"https://www.channel4.com/news/uk-medicines-regulator-considers-issuing-new-advice-over-oxford-astrazeneca-jab\"\u003eavailable to young people\u003c/a\u003e amid concerns about a very rare \u003ca href=\"https://www.theguardian.com/society/2021/apr/02/covid-further-rare-blood-clot-cases-found-in-oxford-astrazeneca-recipients\"\u003eblood clotting condition\u003c/a\u003e, which could slow the pace of inoculations further.\u003c/p\u003e \u003cp\u003eOn Tuesday morning, Zahawi confirmed the Moderna vaccine would arrive in the UK “around the third week in April” and he said there would be “more volume in May as well”. But the volume expected to arrive in April is relatively modest, at about 500,000 doses.\u003c/p\u003e \u003cp\u003eMinisters say the government remains on track to hit its stated target of offering a first dose to every adult in the UK – about 53 million people – by the end of July. So far, 31.5 million people have had a first jab, of whom 5.4 million are fully inoculated.\u003c/p\u003e \u003cp\u003eA Department of Health and Social Care spokesperson said: “Vaccine supply was always going to vary over time but we are on course to offer a first vaccine dose to those aged 50 and over by mid-April and all adults by the end of July.” Departmental sources added that the SPI-M modelling did not amount to a firm forecast of future supply.\u003c/p\u003e",
+      "bodyTextSummary": "The pace of first-dose vaccinations looks set to slow significantly for several weeks after a downwards revision in official forecasts and a delay in the import of 5 million doses from India now expected to last until at least June. A modelling paper produced for the Sage scientific advisory committee said the pace of England’s vaccination programme could be squeezed to 2.7m a week until the end of July, leaving little surplus for first doses until tens of millions of second doses had been administered. Published on Monday, the paper said that “the central rollout scenario” provided to academics by the Cabinet Office was considerably slower than previously used. That, the document added, amounted to “an average of 2.7m doses per week in England until the end of July (2m thereafter)”, which was compared with “3.2m per week in the previous iteration (3.9m thereafter)”.\nThe projections form part of the model, published on Monday, used by academics from Imperial College London and Warwick University to estimate how coronavirus could spread as restrictions are progressively unlocked by the government. Ministers have consistently refused to spell out how much of either the Pfizer or AstraZeneca vaccines will be available in future, leaving the officially sanctioned projections cited in modelling papers as the best available public predictions. Ministers had also hoped to import 5m doses of the AstraZeneca vaccine from the Serum Institute in India to boost UK supply in the coming weeks. But in a further setback to the UK’s plans, the chief executive of the Indian company said that any exports would be delayed until June at the earliest. Adar Poonawalla said the company, the world’s largest vaccine maker, has “chosen to prioritise India temporarily for two months” in response to a surge in coronavirus cases in its home market – and that the delay could continue after that. “We are going to have to keep supplying to India, and not anywhere else. Because we have to protect our nation,” he said, admitting that decision had put a “strain on our contractual obligations” to provide vaccines to other countries. In England, the requirement for second doses in England rises to between 2.1m and 2.4m a week from the middle of April, in response to the speeding up of the vaccination programme during January. On paper, that leaves only a small surplus for new first doses of a few hundred thousand a week.\nThe modelling paper, from the Sage SPI-M modelling subcommittee, added: “As the dates of second doses for the over-50-year-olds are now largely fixed, this slower scenario has the effect of reducing the proportion of under-50-year-olds who are protected at the time of steps 3 and 4.” Step 3 is the unlocking currently proposed for 17 May, where indoor mixing will be allowed and pubs and restaurants can reopen indoors. Step 4 is the final stage of unlocking on 21 June, when in theory nightclubs are supposed to be allowed to reopen. Although the figures cited are for England, the supply of vaccines is spread around the UK on a population-based formula and the impact on the other nations will therefore be the same. England represents 84% of the UK population, meaning the overall supply on this projection would be about 3.2m a week. Nadhim Zahawi, the vaccines minister, said at the end of March that “April will be second-dose month” and the first dose programme has already been paused because of the shortfalls in supply from AstraZeneca. Those aged under 50 and who are in good health are still waiting for their first jab. Questions also loom about whether the AstraZeneca vaccine will be made available to young people amid concerns about a very rare blood clotting condition, which could slow the pace of inoculations further. On Tuesday morning, Zahawi confirmed the Moderna vaccine would arrive in the UK “around the third week in April” and he said there would be “more volume in May as well”. But the volume expected to arrive in April is relatively modest, at about 500,000 doses. Ministers say the government remains on track to hit its stated target of offering a first dose to every adult in the UK – about 53 million people – by the end of July. So far, 31.5 million people have had a first jab, of whom 5.4 million are fully inoculated. A Department of Health and Social Care spokesperson said: “Vaccine supply was always going to vary over time but we are on course to offer a first vaccine dose to those aged 50 and over by mid-April and all adults by the end of July.” Departmental sources added that the SPI-M modelling did not amount to a firm forecast of future supply.",
+      "contributors": [],
+      "createdDate": "2021-04-06T10:13:59Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eThe pace of first-dose vaccinations looks set to slow significantly for several weeks after a downwards revision in official forecasts and a delay in the import of 5 million doses from India now expected to last until at least June.\u003c/p\u003e \n\u003cp\u003eA modelling paper produced for the Sage scientific advisory committee said the pace of England’s vaccination programme could be squeezed to 2.7m a week until the end of July, leaving little surplus for first doses until tens of millions of second doses had been administered.\u003c/p\u003e \n\u003cp\u003ePublished on Monday, the \u003ca href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/975909/S1182_SPI-M-O_Summary_of_modelling_of_easing_roadmap_step_2_restrictions.pdf\"\u003epaper\u003c/a\u003e said that “the central rollout scenario” provided to academics by the Cabinet Office was considerably slower than previously used.\u003c/p\u003e \n\u003cp\u003eThat, the document added, amounted to “an average of 2.7m doses per week in England until the end of July (2m thereafter)”, which was compared with “3.2m per week in the previous iteration (3.9m thereafter)”.\u003c/p\u003e"
+        },
+        "type": "text"
+       },
+       {
+        "assets": [],
+        "interactiveTypeData": {
+         "alt": "Vaccination rates",
+         "html": "\u003ca href=\"https://interactive.guim.co.uk/uploader/embed/2021/04/vaccinerollout-zip/giv-825DWhW75NY8UmY/\"\u003eVaccination rates\u003c/a\u003e",
+         "iframeUrl": "https://interactive.guim.co.uk/uploader/embed/2021/04/vaccinerollout-zip/giv-825DWhW75NY8UmY/",
+         "isMandatory": false,
+         "originalUrl": "https://interactive.guim.co.uk/uploader/embed/2021/04/vaccinerollout-zip/giv-825DWhW75NY8UmY/",
+         "scriptName": "iframe-wrapper",
+         "scriptUrl": "https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js",
+         "source": "Guardian"
+        },
+        "type": "interactive"
+       },
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eThe projections form part of the model, published on Monday, used by academics from Imperial College London and Warwick University to \u003ca href=\"https://www.theguardian.com/world/2021/apr/05/easing-of-england-lockdown-next-week-highly-unlikely-to-overwhelm-nhs\"\u003eestimate how coronavirus could spread\u003c/a\u003e as restrictions are progressively unlocked by the government.\u003c/p\u003e \n\u003cp\u003eMinisters have consistently refused to spell out how much of either the Pfizer or AstraZeneca vaccines will be available in future, leaving the officially sanctioned projections cited in modelling papers as the best available public predictions.\u003c/p\u003e \n\u003cp\u003eMinisters had also hoped to import 5m doses of the AstraZeneca vaccine from the Serum Institute in India to boost UK supply in the coming weeks. But in a further setback to the UK’s plans, the chief executive of the Indian company said that any exports would be delayed until June at the earliest.\u003c/p\u003e \n\u003cp\u003eAdar Poonawalla said the company, the world’s largest vaccine maker, has “chosen to prioritise India temporarily for two months” in response to a surge in coronavirus cases in its home market – and that the delay could continue after that.\u003c/p\u003e \n\u003cp\u003e“We are going to have to keep supplying to India, and not anywhere else. Because we have to protect our nation,” he said, admitting that decision had put a “strain on our contractual obligations” to provide vaccines to other countries.\u003c/p\u003e \n\u003cp\u003eIn England, the requirement for second doses in England rises to between 2.1m and 2.4m a week from the middle of April, in response to the speeding up of the vaccination programme during January. On paper, that leaves only a small surplus for new first doses of a few hundred thousand a week.\u003c/p\u003e"
+        },
+        "type": "text"
+       },
+       {
+        "assets": [],
+        "contentAtomTypeData": {
+         "atomId": "interactives/2020/03/covid-19-uk/default",
+         "atomType": "interactive"
+        },
+        "type": "contentatom"
+       },
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eThe modelling paper, from the Sage SPI-M modelling subcommittee, added: “As the dates of second doses for the over-50-year-olds are now largely fixed, this slower scenario has the effect of reducing the proportion of under-50-year-olds who are protected at the time of steps 3 and 4.”\u003c/p\u003e \n\u003cp\u003eStep 3 is the unlocking currently proposed for 17 May, where indoor mixing will be allowed and pubs and restaurants can reopen indoors. Step 4 is the final stage of unlocking on 21 June, when in theory nightclubs are supposed to be allowed to reopen.\u003c/p\u003e \n\u003cp\u003eAlthough the figures cited are for England, the supply of vaccines is spread around the UK on a population-based formula and the impact on the other nations will therefore be the same. England represents 84% of the UK population, meaning the overall supply on this projection would be about 3.2m a week.\u003c/p\u003e \n\u003cp\u003eNadhim Zahawi, the vaccines minister, said at the end of March that \u003ca href=\"https://www.theguardian.com/society/2021/mar/28/moderna-covid-vaccine-to-be-introduced-in-uk-from-april\"\u003e“April will be second-dose month”\u003c/a\u003e and the first dose programme has already been paused because of the shortfalls in supply from AstraZeneca. Those aged under 50 and who are in good health are still waiting for their first jab.\u003c/p\u003e \n\u003cp\u003eQuestions also loom about whether the AstraZeneca vaccine will be made \u003ca href=\"https://www.channel4.com/news/uk-medicines-regulator-considers-issuing-new-advice-over-oxford-astrazeneca-jab\"\u003eavailable to young people\u003c/a\u003e amid concerns about a very rare \u003ca href=\"https://www.theguardian.com/society/2021/apr/02/covid-further-rare-blood-clot-cases-found-in-oxford-astrazeneca-recipients\"\u003eblood clotting condition\u003c/a\u003e, which could slow the pace of inoculations further.\u003c/p\u003e \n\u003cp\u003eOn Tuesday morning, Zahawi confirmed the Moderna vaccine would arrive in the UK “around the third week in April” and he said there would be “more volume in May as well”. But the volume expected to arrive in April is relatively modest, at about 500,000 doses.\u003c/p\u003e \n\u003cp\u003eMinisters say the government remains on track to hit its stated target of offering a first dose to every adult in the UK – about 53 million people – by the end of July. So far, 31.5 million people have had a first jab, of whom 5.4 million are fully inoculated.\u003c/p\u003e \n\u003cp\u003eA Department of Health and Social Care spokesperson said: “Vaccine supply was always going to vary over time but we are on course to offer a first vaccine dose to those aged 50 and over by mid-April and all adults by the end of July.” Departmental sources added that the SPI-M modelling did not amount to a firm forecast of future supply.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-06T10:14:09Z",
+      "id": "606c34678f083302090e5ee0",
+      "lastModifiedDate": "2021-04-06T18:23:36Z",
+      "published": true,
+      "publishedDate": "2021-04-06T18:23:36Z"
+     }
+    ],
+    "main": {
+     "attributes": {},
+     "bodyHtml": "\u003cfigure class=\"element element-image\" data-media-id=\"8b744c5a0b0991747c1a214a6b27d7159018e450\"\u003e \u003cimg src=\"https://media.guim.co.uk/8b744c5a0b0991747c1a214a6b27d7159018e450/0_0_4668_2801/1000.jpg\" alt=\"A health worker injects a patient with a Covid vaccine\" width=\"1000\" height=\"600\" class=\"gu-image\" /\u003e \u003cfigcaption\u003e \u003cspan class=\"element-image__caption\"\u003eA health worker administers the Pfizer/BioNTech vaccine. Ministers have refused to say how much of the Pfizer or AstraZeneca vaccines will be available in future.\u003c/span\u003e \u003cspan class=\"element-image__credit\"\u003ePhotograph: Oli Scarff/AFP/Getty Images\u003c/span\u003e \u003c/figcaption\u003e \u003c/figure\u003e",
+     "bodyTextSummary": "",
+     "contributors": [],
+     "createdDate": "2021-04-06T12:11:40Z",
+     "elements": [
+      {
+       "assets": [
+        {
+         "file": "https://media.guim.co.uk/8b744c5a0b0991747c1a214a6b27d7159018e450/0_0_4668_2801/140.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 84,
+          "width": 140
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8b744c5a0b0991747c1a214a6b27d7159018e450/0_0_4668_2801/500.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 300,
+          "width": 500
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8b744c5a0b0991747c1a214a6b27d7159018e450/0_0_4668_2801/1000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 600,
+          "width": 1000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8b744c5a0b0991747c1a214a6b27d7159018e450/0_0_4668_2801/2000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 1200,
+          "width": 2000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8b744c5a0b0991747c1a214a6b27d7159018e450/0_0_4668_2801/4668.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 2801,
+          "width": 4668
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8b744c5a0b0991747c1a214a6b27d7159018e450/0_0_4668_2801/master/4668.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 2801,
+          "isMaster": true,
+          "width": 4668
+         }
+        }
+       ],
+       "imageTypeData": {
+        "alt": "A health worker injects a patient with a Covid vaccine",
+        "caption": "A health worker administers the Pfizer/BioNTech vaccine. Ministers have refused to say how much of the Pfizer or AstraZeneca vaccines will be available in future.",
+        "credit": "Photograph: Oli Scarff/AFP/Getty Images",
+        "displayCredit": true,
+        "imageType": "Photograph",
+        "mediaApiUri": "https://api.media.gutools.co.uk/images/8b744c5a0b0991747c1a214a6b27d7159018e450",
+        "mediaId": "8b744c5a0b0991747c1a214a6b27d7159018e450",
+        "photographer": "Oli Scarff",
+        "source": "AFP/Getty Images",
+        "suppliersReference": "0"
+       },
+       "type": "image"
+      }
+     ],
+     "firstPublishedDate": "2021-04-06T12:11:40Z",
+     "id": "606c4ffc8f08611d06d8d593",
+     "lastModifiedDate": "2021-04-06T12:41:13Z",
+     "published": true,
+     "publishedDate": "2021-04-06T12:41:44Z"
+    },
+    "totalBodyBlocks": 1
+   },
+   "id": "politics/2021/apr/06/england-covid-vaccine-programme-could-slow-sharply-sage-warns",
+   "isHosted": false,
+   "pillarId": "pillar/news",
+   "pillarName": "News",
+   "sectionId": "politics",
+   "sectionName": "Politics",
+   "type": "article",
+   "webPublicationDate": "2021-04-06T18:23:46Z",
+   "webTitle": "England’s Covid vaccine programme could slow sharply, Sage says",
+   "webUrl": "https://www.theguardian.com/politics/2021/apr/06/england-covid-vaccine-programme-could-slow-sharply-sage-warns"
+  },
+  "status": "ok",
+  "total": 1,
+  "userTier": "developer"
+ }
+}

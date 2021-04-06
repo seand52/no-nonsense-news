@@ -1,0 +1,138 @@
+{
+ "response": {
+  "content": {
+   "apiUrl": "https://content.guardianapis.com/us-news/2021/apr/06/maryland-shooting-latest-fort-detrick-frederick",
+   "blocks": {
+    "body": [
+     {
+      "attributes": {},
+      "bodyHtml": "\u003cp\u003eA suspect in a shooting at Fort Detrick in Frederick, Maryland, on Tuesday morning was shot and killed, officials said. The two victims in the shooting were in critical condition.\u003c/p\u003e \u003cp\u003eThe US navy said the shooting “involved US navy sailors. The shooter, a navy hospital corpsman, is deceased.”\u003c/p\u003e \u003cp\u003eAt a press conference, the Frederick police chief, Jason Lando, said the victims and the suspect were all adult males.\u003c/p\u003e \u003cp\u003eThe medic shot two people at the Riverside Tech Park then drove 10 minutes to the base where he was shot and killed, Lando said. An employee on the military base shot the 38-year-old suspect, he added.\u003c/p\u003e \u003cp\u003eFort Detrick spokeswoman Lanessa Hill said the gunman drove through a gate at an entrance to the base before base personnel confronted him on a road.\u003c/p\u003e \u003cp\u003eShe said Frederick police had given the base advance notice, “so we knew that we was out there.”\u003c/p\u003e \u003cp\u003eFort Detrick is a US army base that is home to the military’s flagship biological defense laboratory and several federal civilian biodefense labs.\u003c/p\u003e \u003cp\u003eBoth victims were airlifted to the Baltimore shock trauma center.\u003c/p\u003e \u003cp\u003eLando said: “We have two different scenes. All I can tell you is that we have confirmed there is only one shooter. The public is no longer at risk. Everyone is safe.”\u003c/p\u003e \u003cp\u003eLando also called the shootings “very tragic”.\u003c/p\u003e \u003cp\u003e“It’s happening too frequently,” he said. “Every time we turn on the TV we’re seeing something like this happening. And now it’s happening in our back yards.”\u003cbr\u003e\u003c/p\u003e",
+      "bodyTextSummary": "A suspect in a shooting at Fort Detrick in Frederick, Maryland, on Tuesday morning was shot and killed, officials said. The two victims in the shooting were in critical condition. The US navy said the shooting “involved US navy sailors. The shooter, a navy hospital corpsman, is deceased.” At a press conference, the Frederick police chief, Jason Lando, said the victims and the suspect were all adult males. The medic shot two people at the Riverside Tech Park then drove 10 minutes to the base where he was shot and killed, Lando said. An employee on the military base shot the 38-year-old suspect, he added. Fort Detrick spokeswoman Lanessa Hill said the gunman drove through a gate at an entrance to the base before base personnel confronted him on a road. She said Frederick police had given the base advance notice, “so we knew that we was out there.” Fort Detrick is a US army base that is home to the military’s flagship biological defense laboratory and several federal civilian biodefense labs. Both victims were airlifted to the Baltimore shock trauma center. Lando said: “We have two different scenes. All I can tell you is that we have confirmed there is only one shooter. The public is no longer at risk. Everyone is safe.” Lando also called the shootings “very tragic”. “It’s happening too frequently,” he said. “Every time we turn on the TV we’re seeing something like this happening. And now it’s happening in our back yards.”",
+      "contributors": [],
+      "createdDate": "2021-04-06T14:39:59Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eA suspect in a shooting at Fort Detrick in Frederick, Maryland, on Tuesday morning was shot and killed, officials said. The two victims in the shooting were in critical condition.\u003c/p\u003e \n\u003cp\u003eThe US navy said the shooting “involved US navy sailors. The shooter, a navy hospital corpsman, is deceased.”\u003c/p\u003e \n\u003cp\u003eAt a press conference, the Frederick police chief, Jason Lando, said the victims and the suspect were all adult males.\u003c/p\u003e \n\u003cp\u003eThe medic shot two people at the Riverside Tech Park then drove 10 minutes to the base where he was shot and killed, Lando said. An employee on the military base shot the 38-year-old suspect, he added.\u003c/p\u003e \n\u003cp\u003eFort Detrick spokeswoman Lanessa Hill said the gunman drove through a gate at an entrance to the base before base personnel confronted him on a road.\u003c/p\u003e \n\u003cp\u003eShe said Frederick police had given the base advance notice, “so we knew that we was out there.”\u003c/p\u003e \n\u003cp\u003eFort Detrick is a US army base that is home to the military’s flagship biological defense laboratory and several federal civilian biodefense labs.\u003c/p\u003e \n\u003cp\u003eBoth victims were airlifted to the Baltimore shock trauma center.\u003c/p\u003e \n\u003cp\u003eLando said: “We have two different scenes. All I can tell you is that we have confirmed there is only one shooter. The public is no longer at risk. Everyone is safe.”\u003c/p\u003e \n\u003cp\u003eLando also called the shootings “very tragic”.\u003c/p\u003e \n\u003cp\u003e“It’s happening too frequently,” he said. “Every time we turn on the TV we’re seeing something like this happening. And now it’s happening in our back yards.”\u003cbr\u003e\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-06T14:40:39Z",
+      "id": "e966ac2e-3872-4a52-bcb9-c125b563585c",
+      "lastModifiedDate": "2021-04-06T17:15:54Z",
+      "published": true,
+      "publishedDate": "2021-04-06T17:15:55Z"
+     }
+    ],
+    "main": {
+     "attributes": {},
+     "bodyHtml": "\u003cfigure class=\"element element-image\" data-media-id=\"8160875e236dc07b4d55fc2cf752438fa54761e7\"\u003e \u003cimg src=\"https://media.guim.co.uk/8160875e236dc07b4d55fc2cf752438fa54761e7/0_314_4710_2826/1000.jpg\" alt=\"An official stands near a taped-off area near the scene of a shooting at a business park in Frederick, Maryland.\" width=\"1000\" height=\"600\" class=\"gu-image\" /\u003e \u003cfigcaption\u003e \u003cspan class=\"element-image__caption\"\u003eAn official stands near a taped-off area near the scene of a shooting at a business park in Frederick, Maryland.\u003c/span\u003e \u003cspan class=\"element-image__credit\"\u003ePhotograph: Julio Cortez/AP\u003c/span\u003e \u003c/figcaption\u003e \u003c/figure\u003e",
+     "bodyTextSummary": "",
+     "contributors": [],
+     "createdDate": "2021-04-06T15:04:33Z",
+     "elements": [
+      {
+       "assets": [
+        {
+         "file": "https://media.guim.co.uk/8160875e236dc07b4d55fc2cf752438fa54761e7/0_314_4710_2826/2000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 1200,
+          "width": 2000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8160875e236dc07b4d55fc2cf752438fa54761e7/0_314_4710_2826/1000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 600,
+          "width": 1000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8160875e236dc07b4d55fc2cf752438fa54761e7/0_314_4710_2826/500.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 300,
+          "width": 500
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8160875e236dc07b4d55fc2cf752438fa54761e7/0_314_4710_2826/140.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 84,
+          "width": 140
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8160875e236dc07b4d55fc2cf752438fa54761e7/0_314_4710_2826/4710.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 2826,
+          "width": 4710
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/8160875e236dc07b4d55fc2cf752438fa54761e7/0_314_4710_2826/master/4710.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 2826,
+          "isMaster": true,
+          "width": 4710
+         }
+        }
+       ],
+       "imageTypeData": {
+        "alt": "An official stands near a taped-off area near the scene of a shooting at a business park in Frederick, Maryland.",
+        "caption": "An official stands near a taped-off area near the scene of a shooting at a business park in Frederick, Maryland.",
+        "credit": "Photograph: Julio Cortez/AP",
+        "displayCredit": true,
+        "imageType": "Photograph",
+        "mediaApiUri": "https://api.media.gutools.co.uk/images/8160875e236dc07b4d55fc2cf752438fa54761e7",
+        "mediaId": "8160875e236dc07b4d55fc2cf752438fa54761e7",
+        "photographer": "Julio Cortez",
+        "source": "AP",
+        "suppliersReference": "MDJC103"
+       },
+       "type": "image"
+      }
+     ],
+     "firstPublishedDate": "2021-04-06T15:04:34Z",
+     "id": "606c78818f08611d06d8d818",
+     "lastModifiedDate": "2021-04-06T17:16:36Z",
+     "published": true,
+     "publishedDate": "2021-04-06T17:16:43Z"
+    },
+    "totalBodyBlocks": 1
+   },
+   "id": "us-news/2021/apr/06/maryland-shooting-latest-fort-detrick-frederick",
+   "isHosted": false,
+   "pillarId": "pillar/news",
+   "pillarName": "News",
+   "sectionId": "us-news",
+   "sectionName": "US news",
+   "type": "article",
+   "webPublicationDate": "2021-04-06T17:16:46Z",
+   "webTitle": "Maryland shooting: suspect killed and two victims in critical condition",
+   "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/maryland-shooting-latest-fort-detrick-frederick"
+  },
+  "status": "ok",
+  "total": 1,
+  "userTier": "developer"
+ }
+}

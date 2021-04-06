@@ -1,0 +1,138 @@
+{
+ "response": {
+  "content": {
+   "apiUrl": "https://content.guardianapis.com/uk-news/2021/apr/06/travellers-warned-of-up-to-10-week-wait-for-british-passports",
+   "blocks": {
+    "body": [
+     {
+      "attributes": {},
+      "bodyHtml": "\u003cp\u003eProcessing British passport applications could take more than three times the usual waiting time as a result of an expected spike in demand, the Home Office has warned.\u003c/p\u003e \u003cp\u003eThe Passport Office is telling travellers to allow up to 10 weeks to receive the document, up from three weeks previously.\u003c/p\u003e \u003cp\u003eOn that timeline, someone applying on Wednesday might not receive their passport until 16 June.\u003c/p\u003e \u003cp\u003eOnly about 4 million people applied for a passport in 2020 amid a collapse in overseas travel caused by the coronavirus pandemic. This is compared with approximately 7 million during a normal year, suggesting there could be a rush of applications once the ban on holidays is lifted.\u003c/p\u003e \u003cp\u003ePeople whose passports are nearly expired will be sent text messages telling them to allow more time when they renew.\u003c/p\u003e \u003cp\u003eThe Passport Office director general, Abi Tierney, said: “It is vital those who may need to apply for a new passport do so now. If you have delayed renewing your passport or are applying for the first time, please apply now so you can receive it in good time.\u003c/p\u003e \u003cp\u003e“This new advice will help to ensure that we continue to meet the travel plans of our customers during any period of the very highest passport demand.”\u003c/p\u003e \u003cp\u003eOverseas leisure travel from the UK is banned because of the coronavirus lockdowns. It could be permitted from 17 May under Boris Johnson’s roadmap for easing restrictions in England.\u003c/p\u003e \u003cp\u003eThe prime minister said on Monday that when the “Stay in the UK” rule is removed, it will be replaced by a risk-based “traffic light” system that assigns a red, amber or green rating to destination countries.\u003c/p\u003e \u003cp\u003eAs a result of Brexit, UK passport holders travelling to the EU must ensure their passport has at least six months’ validity remaining and is less than 10 years old.\u003c/p\u003e",
+      "bodyTextSummary": "Processing British passport applications could take more than three times the usual waiting time as a result of an expected spike in demand, the Home Office has warned. The Passport Office is telling travellers to allow up to 10 weeks to receive the document, up from three weeks previously. On that timeline, someone applying on Wednesday might not receive their passport until 16 June. Only about 4 million people applied for a passport in 2020 amid a collapse in overseas travel caused by the coronavirus pandemic. This is compared with approximately 7 million during a normal year, suggesting there could be a rush of applications once the ban on holidays is lifted. People whose passports are nearly expired will be sent text messages telling them to allow more time when they renew. The Passport Office director general, Abi Tierney, said: “It is vital those who may need to apply for a new passport do so now. If you have delayed renewing your passport or are applying for the first time, please apply now so you can receive it in good time. “This new advice will help to ensure that we continue to meet the travel plans of our customers during any period of the very highest passport demand.” Overseas leisure travel from the UK is banned because of the coronavirus lockdowns. It could be permitted from 17 May under Boris Johnson’s roadmap for easing restrictions in England. The prime minister said on Monday that when the “Stay in the UK” rule is removed, it will be replaced by a risk-based “traffic light” system that assigns a red, amber or green rating to destination countries. As a result of Brexit, UK passport holders travelling to the EU must ensure their passport has at least six months’ validity remaining and is less than 10 years old.",
+      "contributors": [],
+      "createdDate": "2021-04-06T16:54:30Z",
+      "elements": [
+       {
+        "assets": [],
+        "textTypeData": {
+         "html": "\u003cp\u003eProcessing British passport applications could take more than three times the usual waiting time as a result of an expected spike in demand, the Home Office has warned.\u003c/p\u003e \n\u003cp\u003eThe Passport Office is telling travellers to allow up to 10 weeks to receive the document, up from three weeks previously.\u003c/p\u003e \n\u003cp\u003eOn that timeline, someone applying on Wednesday might not receive their passport until 16 June.\u003c/p\u003e \n\u003cp\u003eOnly about 4 million people applied for a passport in 2020 amid a collapse in overseas travel caused by the coronavirus pandemic. This is compared with approximately 7 million during a normal year, suggesting there could be a rush of applications once the ban on holidays is lifted.\u003c/p\u003e \n\u003cp\u003ePeople whose passports are nearly expired will be sent text messages telling them to allow more time when they renew.\u003c/p\u003e \n\u003cp\u003eThe Passport Office director general, Abi Tierney, said: “It is vital those who may need to apply for a new passport do so now. If you have delayed renewing your passport or are applying for the first time, please apply now so you can receive it in good time.\u003c/p\u003e \n\u003cp\u003e“This new advice will help to ensure that we continue to meet the travel plans of our customers during any period of the very highest passport demand.”\u003c/p\u003e \n\u003cp\u003eOverseas leisure travel from the UK is banned because of the coronavirus lockdowns. It could be permitted from 17 May under Boris Johnson’s roadmap for easing restrictions in England.\u003c/p\u003e \n\u003cp\u003eThe prime minister said on Monday that when the “Stay in the UK” rule is removed, it will be replaced by a risk-based “traffic light” system that assigns a red, amber or green rating to destination countries.\u003c/p\u003e \n\u003cp\u003eAs a result of Brexit, UK passport holders travelling to the EU must ensure their passport has at least six months’ validity remaining and is less than 10 years old.\u003c/p\u003e"
+        },
+        "type": "text"
+       }
+      ],
+      "firstPublishedDate": "2021-04-06T16:54:40Z",
+      "id": "606c92468f087dc3964a1334",
+      "lastModifiedDate": "2021-04-06T17:54:20Z",
+      "published": true,
+      "publishedDate": "2021-04-06T17:54:20Z"
+     }
+    ],
+    "main": {
+     "attributes": {},
+     "bodyHtml": "\u003cfigure class=\"element element-image\" data-media-id=\"323d83bdaf4da333abeac29d9d31f2193d4bb933\"\u003e \u003cimg src=\"https://media.guim.co.uk/323d83bdaf4da333abeac29d9d31f2193d4bb933/0_389_5184_3110/1000.jpg\" alt=\"A British passport\" width=\"1000\" height=\"600\" class=\"gu-image\" /\u003e \u003cfigcaption\u003e \u003cspan class=\"element-image__caption\"\u003ePassport Office director general, Abi Tierney, said: ‘It is vital those who may need to apply for a new passport do so now.’ \u003c/span\u003e \u003cspan class=\"element-image__credit\"\u003ePhotograph: Shaun Daley/Alamy Stock Photo\u003c/span\u003e \u003c/figcaption\u003e \u003c/figure\u003e",
+     "bodyTextSummary": "",
+     "contributors": [],
+     "createdDate": "2021-04-06T17:39:27Z",
+     "elements": [
+      {
+       "assets": [
+        {
+         "file": "https://media.guim.co.uk/323d83bdaf4da333abeac29d9d31f2193d4bb933/0_389_5184_3110/140.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 84,
+          "width": 140
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/323d83bdaf4da333abeac29d9d31f2193d4bb933/0_389_5184_3110/500.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 300,
+          "width": 500
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/323d83bdaf4da333abeac29d9d31f2193d4bb933/0_389_5184_3110/1000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 600,
+          "width": 1000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/323d83bdaf4da333abeac29d9d31f2193d4bb933/0_389_5184_3110/2000.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 1200,
+          "width": 2000
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/323d83bdaf4da333abeac29d9d31f2193d4bb933/0_389_5184_3110/5184.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 3110,
+          "width": 5184
+         }
+        },
+        {
+         "file": "https://media.guim.co.uk/323d83bdaf4da333abeac29d9d31f2193d4bb933/0_389_5184_3110/master/5184.jpg",
+         "mimeType": "image/jpeg",
+         "type": "image",
+         "typeData": {
+          "aspectRatio": "5:3",
+          "height": 3110,
+          "isMaster": true,
+          "width": 5184
+         }
+        }
+       ],
+       "imageTypeData": {
+        "alt": "A British passport",
+        "caption": "Passport Office director general, Abi Tierney, said: ‘It is vital those who may need to apply for a new passport do so now.’ ",
+        "credit": "Photograph: Shaun Daley/Alamy Stock Photo",
+        "displayCredit": true,
+        "imageType": "Photograph",
+        "mediaApiUri": "https://api.media.gutools.co.uk/images/323d83bdaf4da333abeac29d9d31f2193d4bb933",
+        "mediaId": "323d83bdaf4da333abeac29d9d31f2193d4bb933",
+        "photographer": "Shaun Daley",
+        "source": "Alamy Stock Photo",
+        "suppliersReference": "2CA1A3M"
+       },
+       "type": "image"
+      }
+     ],
+     "firstPublishedDate": "2021-04-06T17:39:28Z",
+     "id": "606c9ccf8f087dc3964a13c5",
+     "lastModifiedDate": "2021-04-06T17:59:33Z",
+     "published": true,
+     "publishedDate": "2021-04-06T17:59:33Z"
+    },
+    "totalBodyBlocks": 1
+   },
+   "id": "uk-news/2021/apr/06/travellers-warned-of-up-to-10-week-wait-for-british-passports",
+   "isHosted": false,
+   "pillarId": "pillar/news",
+   "pillarName": "News",
+   "sectionId": "uk-news",
+   "sectionName": "UK news",
+   "type": "article",
+   "webPublicationDate": "2021-04-06T18:08:09Z",
+   "webTitle": "Travellers warned of up to 10-week wait for British passports",
+   "webUrl": "https://www.theguardian.com/uk-news/2021/apr/06/travellers-warned-of-up-to-10-week-wait-for-british-passports"
+  },
+  "status": "ok",
+  "total": 1,
+  "userTier": "developer"
+ }
+}
