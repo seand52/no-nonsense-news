@@ -2,6 +2,7 @@ package routes
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"no-nonsense-news/helpers"
@@ -13,8 +14,10 @@ import (
 func FetchNews(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
   os.RemoveAll("data")
   os.Mkdir("data", os.ModePerm)
-	resp, err := http.Get("https://content.guardianapis.com/search?api-key=a3136ec7-05ca-42c8-b0ac-60f9eae61e85&page-size=50")
+  apiKey := os.Getenv("AUTH_KEY")
+	resp, err := http.Get("https://content.guardianapis.com/search?api-key=" + apiKey + "&page-size=50")
 	if err != nil {
+    fmt.Println("fetch error")
 		// handle error
 	}
 	defer resp.Body.Close()
@@ -25,11 +28,11 @@ func FetchNews(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 		// handle error
 	}
 	time.Sleep(5 * time.Second)
-	fetchNewsdetail()
+	fetchNewsdetail(apiKey)
 
 }
 
-func fetchNewsdetail() {
+func fetchNewsdetail(apiKey string) {
 	jsonFile, err := os.Open("data/overview.json")
 	if err != nil {
 		//hondle the error
@@ -39,9 +42,10 @@ func fetchNewsdetail() {
 	json.Unmarshal(byteValue, &news)
 	for _, v := range news.Response.Result {
 		if v.Type != "liveblog" {
-			apiUrl := v.ApiUrl + "?api-key=a3136ec7-05ca-42c8-b0ac-60f9eae61e85&show-blocks=all"
+			apiUrl := v.ApiUrl + "?api-key=" + apiKey + "&show-blocks=all"
 			resp, err := http.Get(apiUrl)
 			if err != nil {
+    fmt.Println("fetch error")
 				// handle error
 			}
 			defer resp.Body.Close()
