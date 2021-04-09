@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 	"regexp"
+	"time"
 )
 
 func WriteDataToJson(data map[string]interface{}, path string) error {
@@ -15,4 +16,9 @@ func WriteDataToJson(data map[string]interface{}, path string) error {
 func GetArticleSlug(id string) string {
 	re := regexp.MustCompile(`([^\/]+$)`)
 	return string(re.Find([]byte(id)))
+}
+
+func GetFormattedDate() string {
+	currentTime := time.Now()
+  return currentTime.Format("01-02-2006")
 }

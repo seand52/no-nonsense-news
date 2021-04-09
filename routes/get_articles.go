@@ -33,9 +33,15 @@ type ResultWithSlug struct {
 	Slug string `json:"slug"`
 }
 
+type RenderData struct {
+	Results []ResultWithSlug
+	Date    string
+}
+
 func GetArticles(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
 	jsonPath, err := filepath.Abs("./data/overview.json")
 	jsonFile, err := os.Open(jsonPath)
+	currentDate := helpers.GetFormattedDate()
 	if err != nil {
 		//hondle the error
 	}
@@ -55,7 +61,8 @@ func GetArticles(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
 	if err != nil {
 		//hondle the error
 	}
-	err = t.Execute(w, filteredNews)
+  data := RenderData{Results: filteredNews, Date: currentDate}
+	err = t.Execute(w, data)
 	if err != nil {
 		//hondle the error
 	}
