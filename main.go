@@ -8,10 +8,12 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/julienschmidt/httprouter"
 	"github.com/rs/cors"
+	"path/filepath"
 )
 
 func main() {
-  err := godotenv.Load(".env")
+	jsonPath, err := filepath.Abs("./")
+	godotenv.Load(filepath.Join(jsonPath, ".env"))
 	if err != nil {
 		log.Fatal("Error loading .env file")
 	}
@@ -20,6 +22,6 @@ func main() {
 	router.GET("/article/:articleId", routes.GetArticle)
 	router.GET("/fetchNews", routes.FetchNews)
 	router.ServeFiles("/static/*filepath", http.Dir("static"))
-  handler := cors.Default().Handler(router)
+	handler := cors.Default().Handler(router)
 	log.Fatal(http.ListenAndServe(":8080", handler))
 }

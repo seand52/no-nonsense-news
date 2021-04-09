@@ -7,23 +7,26 @@ import (
 	"net/http"
 	"no-nonsense-news/helpers"
 	"os"
+	"path/filepath"
 	"time"
 
 	"github.com/julienschmidt/httprouter"
 )
+
 func FetchNews(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-  os.RemoveAll("data")
-  os.Mkdir("data", os.ModePerm)
-  apiKey := os.Getenv("AUTH_KEY")
+	os.RemoveAll("data")
+	os.Mkdir("data", os.ModePerm)
+	apiKey := os.Getenv("AUTH_KEY")
 	resp, err := http.Get("https://content.guardianapis.com/search?api-key=" + apiKey + "&page-size=50")
 	if err != nil {
-    fmt.Println("fetch error")
+		fmt.Println("fetch error")
 		// handle error
 	}
 	defer resp.Body.Close()
 	var apiResult map[string]interface{}
 	json.NewDecoder(resp.Body).Decode(&apiResult)
-	error := helpers.WriteDataToJson(apiResult, "data/overview.json")
+	jsonPath, err := filepath.Abs("./data/overview.json")
+	error := helpers.WriteDataToJson(apiResult, jsonPath)
 	if error != nil {
 		// handle error
 	}
@@ -33,7 +36,8 @@ func FetchNews(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 }
 
 func fetchNewsdetail(apiKey string) {
-	jsonFile, err := os.Open("data/overview.json")
+	jsonPath, err := filepath.Abs("./data/overview.json")
+	jsonFile, err := os.Open(jsonPath)
 	if err != nil {
 		//hondle the error
 	}
@@ -45,14 +49,15 @@ func fetchNewsdetail(apiKey string) {
 			apiUrl := v.ApiUrl + "?api-key=" + apiKey + "&show-blocks=all"
 			resp, err := http.Get(apiUrl)
 			if err != nil {
-    fmt.Println("fetch error")
+				fmt.Println("fetch error")
 				// handle error
 			}
 			defer resp.Body.Close()
 			var apiResult map[string]interface{}
 			json.NewDecoder(resp.Body).Decode(&apiResult)
-      slug := helpers.GetArticleSlug(v.Id)
-			error := helpers.WriteDataToJson(apiResult, "data/"+slug+".json")
+			slug := helpers.GetArticleSlug(v.Id)
+			articleJson, err := filepath.Abs("./data/"+slug+".json")
+			error := helpers.WriteDataToJson(apiResult, articleJson)
 			if error != nil {
 				// handle error
 			}

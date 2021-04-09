@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
+	"path/filepath"
 	"text/template"
 
 	"github.com/julienschmidt/httprouter"
@@ -37,9 +38,11 @@ type MainData struct {
 type BodyData struct {
 	BodyDataHtml string `json:"bodyHtml"`
 }
+
 func GetArticle(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 	articleId := p.ByName("articleId")
-	jsonFile, err := os.Open("data/" + articleId + ".json")
+	jsonPath, err := filepath.Abs("./data/" + articleId + ".json")
+	jsonFile, err := os.Open(jsonPath)
 	if err != nil {
 		//hondle the error
 	}
@@ -49,10 +52,10 @@ func GetArticle(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 	}
 	var newsDetail Response
 	json.Unmarshal(byteValue, &newsDetail)
-	t, err := template.ParseFiles("views/news_detail.html")
+	htmlPath, err := filepath.Abs("./views/news_detail.html")
+	t, err := template.ParseFiles(htmlPath)
 	if err != nil {
 		//hondle the error
 	}
 	t.Execute(w, newsDetail)
 }
-
