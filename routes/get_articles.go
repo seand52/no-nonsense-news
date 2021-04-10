@@ -50,7 +50,7 @@ func GetArticles(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
 	json.Unmarshal(byteValue, &news)
 	var filteredNews []ResultWithSlug
 	for _, v := range news.Response.Result {
-		if v.Type != "liveblog" {
+		if v.Type == "article" {
 			slug := helpers.GetArticleSlug(v.Id)
 			filteredResult := ResultWithSlug{Result: v, Slug: slug}
 			filteredNews = append(filteredNews, filteredResult)

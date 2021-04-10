@@ -45,7 +45,7 @@ func fetchNewsdetail(apiKey string) {
 	var news ResponseOverview
 	json.Unmarshal(byteValue, &news)
 	for _, v := range news.Response.Result {
-		if v.Type != "liveblog" {
+		if v.Type == "article" {
 			apiUrl := v.ApiUrl + "?api-key=" + apiKey + "&show-blocks=all"
 			resp, err := http.Get(apiUrl)
 			if err != nil {
